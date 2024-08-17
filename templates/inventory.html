@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Stock Depletion Rate Calculator</title>
+    <style>
+        /* Reset some default browser styles */
+        body, h1, p, label, input {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            line-height: 1.6;
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #007bff;
+            margin-bottom: 20px;
+        }
+
+        form {
+            max-width: 600px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        label {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 8px;
+        }
+
+        input[type="number"] {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+
+        input[type="submit"] {
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+
+        p {
+            font-size: 18px;
+            margin: 10px 0;
+            text-align: center;
+        }
+
+        @media (max-width: 600px) {
+            form {
+                padding: 15px;
+            }
+
+            input[type="submit"] {
+                padding: 10px;
+                font-size: 14px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Stock Depletion Rate Calculator</h1>
+    <form method="post">
+        <label for="store_id">Store ID:</label>
+        <input type="number" id="store_id" name="store_id" required><br><br>
+        <label for="product_id">Product ID:</label>
+        <input type="number" id="product_id" name="product_id" required><br><br>
+        <input type="submit" value="Calculate">
+    </form>
+    {% if current_stock_level is not none %}
+        <p>Current Stock Level: {{ current_stock_level }} units</p>
+    {% endif %}
+    {% if depletion_rate is not none %}
+        <p>Predicted Depletion Rate: {{ depletion_rate }} units per day</p>
+    {% endif %}
+    {% if monthly_depletion is not none %}
+        <p>Estimated Monthly Depletion: {{ monthly_depletion }} units</p>
+    {% endif %}
+</body>
+</html>

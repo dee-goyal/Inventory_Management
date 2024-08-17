@@ -1,0 +1,1001 @@
+Date,Product ID,Product Category,Store ID,Store Location,Sales Volume,Sales Revenue,Stock Level,Stock-Out Occurrence,Stock-Out Duration,Promotion,Seasonality,External Events,Product Price,Reorder Point,Order Quantity,Lead Time
+2023-01-01,45,Electronics,16,New York,22,83.6,22,0,3,0,Winter,Festival,289.43,41,61,8
+2023-01-02,48,Clothing,5,Phoenix,19,404.54,75,1,5,0,Fall,Economic Change,37.18,47,46,3
+2023-01-03,65,Clothing,3,Houston,23,304.75,93,1,4,0,Summer,Local Event,263.93,28,55,6
+2023-01-04,68,Groceries,8,Los Angeles,24,109.37,52,1,3,0,Winter,Local Event,113.17,25,40,5
+2023-01-05,68,Toys,14,Chicago,26,264.82,32,0,9,0,Summer,None,116.53,36,61,6
+2023-01-06,10,Electronics,9,Chicago,17,142.08,46,0,5,1,Spring,Local Event,184.09,13,87,3
+2023-01-07,84,Clothing,6,New York,24,388.13,19,0,5,0,Spring,Economic Change,218.17,17,51,13
+2023-01-08,22,Toys,8,Los Angeles,25,417.02,38,0,9,0,Fall,Festival,235.55,21,50,1
+2023-01-09,37,Electronics,16,Houston,28,248.28,96,0,7,0,Fall,Festival,68.39,43,77,5
+2023-01-10,88,Groceries,16,Los Angeles,20,485.53,47,0,8,1,Spring,Local Event,100.96,18,89,6
+2023-01-11,71,Clothing,10,Los Angeles,26,335.93,47,1,3,0,Summer,Local Event,149.06,14,42,5
+2023-01-12,89,Toys,10,Chicago,24,166.85,73,1,7,0,Fall,Local Event,62.34,34,74,12
+2023-01-13,89,Electronics,12,Phoenix,25,79.67,48,0,4,0,Spring,Festival,72.39,20,76,12
+2023-01-14,13,Clothing,4,New York,23,363.79,28,0,5,0,Spring,None,113.62,38,75,13
+2023-01-15,59,Electronics,8,Phoenix,21,315.5,82,0,7,0,Spring,Festival,96.85,42,25,8
+2023-01-16,66,Groceries,19,Chicago,17,204.42,21,0,9,0,Winter,Economic Change,196.44,24,75,10
+2023-01-17,40,Groceries,9,Los Angeles,21,382.33,30,1,9,0,Fall,Local Event,222.83,18,65,9
+2023-01-18,88,Toys,2,New York,16,67.43,97,0,6,0,Fall,Local Event,238.53,19,64,11
+2023-01-19,47,Toys,4,Houston,24,433.53,32,1,2,0,Fall,None,130.82,45,96,12
+2023-01-20,89,Clothing,19,Houston,20,135.8,71,0,7,0,Summer,Economic Change,44.25,12,68,2
+2023-01-21,82,Toys,18,Los Angeles,20,64.91,99,0,9,1,Fall,Festival,281.86,39,64,10
+2023-01-22,38,Clothing,15,Phoenix,23,451.36,24,0,9,0,Fall,Festival,109.51,39,92,13
+2023-01-23,26,Electronics,11,Phoenix,23,328.07,65,1,5,0,Summer,Local Event,20.26,19,98,7
+2023-01-24,78,Clothing,11,New York,20,105.99,82,0,8,0,Winter,Economic Change,128.04,42,72,3
+2023-01-25,73,Groceries,12,Chicago,21,332.42,54,0,8,1,Summer,None,275.35,15,38,10
+2023-01-26,10,Groceries,14,Phoenix,17,450.07,61,0,5,0,Winter,Local Event,80.61,46,58,12
+2023-01-27,21,Toys,15,Houston,15,313.27,0,0,2,0,Summer,Festival,285.02,35,46,6
+2023-01-28,81,Groceries,6,Houston,13,387.97,53,1,3,1,Summer,Festival,193.71,44,30,13
+2023-01-29,70,Clothing,11,Houston,21,453.04,84,0,9,0,Fall,Economic Change,278.78,11,22,11
+2023-01-30,80,Electronics,8,Phoenix,16,462.25,64,0,1,0,Winter,Local Event,225.91,24,75,2
+2023-01-31,48,Groceries,18,Los Angeles,15,114.13,53,0,9,0,Summer,Festival,171.59,10,45,11
+2023-02-01,65,Groceries,6,Phoenix,13,389.62,8,0,1,0,Summer,Economic Change,43.05,25,26,6
+2023-02-02,83,Clothing,7,Phoenix,16,436.2,78,0,8,0,Fall,None,86.88,19,54,8
+2023-02-03,89,Clothing,12,New York,14,492.4,38,0,4,0,Fall,Local Event,183.31,42,87,6
+2023-02-04,50,Clothing,12,Chicago,24,438.79,82,0,8,1,Fall,Festival,98.94,23,32,6
+2023-02-05,30,Clothing,18,Phoenix,24,357.31,2,1,2,0,Winter,Economic Change,286.62,26,36,1
+2023-02-06,20,Electronics,19,Phoenix,28,173.57,3,0,1,0,Summer,None,120.86,13,40,5
+2023-02-07,20,Clothing,6,Chicago,25,190.15,54,1,3,0,Spring,Economic Change,152.21,48,53,2
+2023-02-08,15,Toys,18,Houston,28,405.58,18,0,3,0,Winter,None,137.19,21,95,8
+2023-02-09,40,Electronics,9,Chicago,27,236.47,46,0,4,0,Spring,Economic Change,60.23,26,48,7
+2023-02-10,33,Electronics,18,Phoenix,24,432.41,7,0,5,1,Summer,None,251.08,24,39,8
+2023-02-11,66,Toys,11,Los Angeles,23,261.9,6,0,5,0,Spring,Economic Change,264.08,46,62,2
+2023-02-12,10,Groceries,8,New York,18,349.57,0,1,5,0,Spring,Economic Change,87.48,47,74,10
+2023-02-13,58,Toys,12,New York,24,480.02,72,0,5,1,Summer,Festival,242.19,37,50,9
+2023-02-14,33,Groceries,15,Chicago,17,145.53,28,0,5,0,Summer,Festival,255.6,11,72,13
+2023-02-15,32,Clothing,1,Chicago,17,179.82,16,0,7,1,Fall,Economic Change,103.02,12,95,13
+2023-02-16,75,Groceries,2,Houston,21,252.46,43,0,7,0,Winter,None,268.95,11,96,12
+2023-02-17,24,Toys,2,New York,14,403.73,95,0,6,0,Fall,Local Event,270.64,11,52,4
+2023-02-18,36,Electronics,5,Chicago,14,419.03,56,0,9,0,Summer,Festival,215.57,46,47,6
+2023-02-19,76,Toys,13,Phoenix,18,418.37,91,0,9,0,Spring,None,227.51,46,64,6
+2023-02-20,56,Clothing,9,Phoenix,23,197.52,73,0,7,0,Summer,Local Event,142.18,44,67,7
+2023-02-21,29,Clothing,19,Los Angeles,25,89.85,36,0,2,0,Summer,Festival,166.59,15,66,5
+2023-02-22,35,Clothing,13,Los Angeles,22,116.93,39,1,2,0,Spring,None,68.11,47,98,11
+2023-02-23,1,Toys,4,Chicago,21,119.95,7,0,6,0,Winter,None,272.8,45,87,5
+2023-02-24,1,Clothing,11,Houston,21,351.99,32,0,4,0,Winter,Local Event,162.14,24,76,4
+2023-02-25,37,Groceries,8,Houston,28,301.23,14,0,2,0,Spring,Local Event,197.24,20,85,2
+2023-02-26,54,Clothing,15,Houston,27,131.46,14,0,4,0,Winter,Local Event,297.83,18,98,12
+2023-02-27,6,Electronics,9,Houston,18,252.87,99,0,8,0,Spring,Economic Change,293.22,29,57,5
+2023-02-28,39,Clothing,15,New York,26,278.79,95,0,6,1,Fall,Festival,270.3,32,87,1
+2023-03-01,18,Groceries,4,Houston,15,400.08,12,0,3,0,Winter,Festival,81.55,20,46,11
+2023-03-02,80,Toys,4,Los Angeles,21,312.16,10,0,1,0,Summer,Festival,205.02,26,57,9
+2023-03-03,5,Electronics,18,Los Angeles,23,219.73,36,0,8,0,Summer,None,170.63,39,44,3
+2023-03-04,43,Toys,13,New York,26,477.23,78,0,6,0,Spring,None,89.77,17,91,6
+2023-03-05,59,Groceries,14,Chicago,17,276.16,5,0,7,1,Summer,Festival,130.96,39,94,9
+2023-03-06,32,Toys,8,Phoenix,19,437.7,15,0,3,0,Fall,Economic Change,243.59,18,81,7
+2023-03-07,2,Groceries,16,Los Angeles,19,248.75,77,0,8,0,Winter,Economic Change,221.74,36,91,4
+2023-03-08,66,Groceries,15,Los Angeles,29,56.73,84,0,8,0,Winter,Local Event,34.85,40,98,2
+2023-03-09,42,Groceries,8,New York,8,320.96,16,0,9,0,Winter,Economic Change,49.65,10,31,12
+2023-03-10,58,Clothing,11,Los Angeles,15,411.09,80,0,7,1,Winter,Economic Change,10.03,22,60,3
+2023-03-11,36,Groceries,14,Phoenix,18,177.73,49,0,4,0,Summer,Local Event,26.91,15,95,3
+2023-03-12,12,Clothing,19,New York,22,367.86,91,0,2,0,Winter,Local Event,237.43,32,99,7
+2023-03-13,47,Clothing,2,Houston,25,258.56,26,0,3,1,Winter,Local Event,223.06,44,33,3
+2023-03-14,83,Toys,12,Houston,21,209.31,20,1,7,0,Winter,None,66.55,49,34,7
+2023-03-15,92,Toys,19,Houston,24,77.06,41,1,3,0,Summer,Local Event,16.43,35,22,12
+2023-03-16,1,Groceries,15,Phoenix,24,210.05,42,0,7,1,Winter,Economic Change,239.82,22,35,7
+2023-03-17,15,Toys,6,Chicago,24,413.95,46,0,1,0,Winter,Economic Change,96.35,28,33,1
+2023-03-18,54,Electronics,9,Los Angeles,18,408.1,30,1,8,0,Summer,Economic Change,139.17,29,61,13
+2023-03-19,13,Toys,19,Phoenix,15,429.03,33,0,4,0,Winter,None,51.43,36,30,1
+2023-03-20,43,Groceries,3,Chicago,17,409.51,58,1,1,0,Summer,None,43.26,32,52,2
+2023-03-21,85,Toys,12,New York,19,395.02,51,0,3,1,Winter,None,146.36,21,59,1
+2023-03-22,76,Toys,13,Phoenix,20,425.12,72,0,8,0,Spring,Local Event,85.35,34,59,12
+2023-03-23,69,Groceries,12,New York,12,418.83,8,1,5,0,Winter,Economic Change,165.07,17,41,5
+2023-03-24,7,Clothing,9,Chicago,12,149.44,27,0,1,1,Winter,Economic Change,139.98,32,66,11
+2023-03-25,69,Toys,5,Phoenix,19,368.27,93,0,5,0,Winter,Festival,29.69,22,41,3
+2023-03-26,48,Clothing,18,Los Angeles,17,498.4,67,0,3,0,Fall,None,199.12,46,73,4
+2023-03-27,4,Toys,13,Chicago,25,115.3,37,0,1,1,Winter,Local Event,282.0,43,96,7
+2023-03-28,77,Clothing,18,Los Angeles,14,380.94,56,0,9,0,Spring,None,214.63,12,99,5
+2023-03-29,53,Toys,11,New York,14,464.98,76,0,6,0,Spring,Festival,239.36,18,80,1
+2023-03-30,79,Toys,17,Los Angeles,21,343.28,2,0,4,0,Summer,Festival,76.36,44,87,13
+2023-03-31,16,Clothing,11,Phoenix,34,203.9,76,0,1,1,Summer,Local Event,213.28,41,96,1
+2023-04-01,21,Groceries,12,Phoenix,22,352.45,28,1,5,0,Summer,Local Event,297.33,43,25,1
+2023-04-02,59,Toys,3,Houston,19,467.5,79,0,9,0,Fall,Economic Change,93.5,21,62,13
+2023-04-03,24,Electronics,11,Los Angeles,11,470.9,8,0,9,0,Fall,None,43.42,14,58,7
+2023-04-04,80,Toys,13,Houston,24,439.83,30,1,5,0,Fall,Local Event,217.23,31,44,2
+2023-04-05,14,Electronics,18,Chicago,26,300.43,90,0,2,0,Fall,Economic Change,241.44,16,51,8
+2023-04-06,86,Electronics,8,New York,23,307.33,30,0,1,0,Spring,Economic Change,121.07,49,36,5
+2023-04-07,49,Electronics,17,Chicago,20,481.76,48,0,3,0,Fall,None,231.0,35,95,4
+2023-04-08,50,Clothing,11,New York,21,348.05,40,1,1,1,Spring,Festival,59.23,45,44,10
+2023-04-09,70,Toys,3,Los Angeles,19,59.1,0,0,4,1,Fall,None,145.03,30,66,9
+2023-04-10,42,Groceries,16,Phoenix,17,174.66,16,0,2,0,Fall,None,182.67,20,40,1
+2023-04-11,36,Clothing,12,Los Angeles,17,225.73,16,0,1,0,Fall,None,38.2,31,60,6
+2023-04-12,65,Clothing,15,New York,23,269.06,85,0,4,1,Fall,Economic Change,177.9,39,25,11
+2023-04-13,96,Groceries,10,Houston,24,186.65,69,0,4,1,Summer,None,80.32,42,30,6
+2023-04-14,70,Toys,4,New York,18,146.49,14,0,7,0,Summer,None,283.76,44,42,12
+2023-04-15,95,Groceries,17,Houston,18,369.77,75,0,6,0,Spring,None,204.37,14,50,6
+2023-04-16,1,Groceries,1,Chicago,17,126.13,7,0,6,0,Winter,Local Event,48.22,30,59,3
+2023-04-17,51,Clothing,14,Phoenix,22,90.99,29,0,8,0,Summer,Festival,215.3,40,62,2
+2023-04-18,37,Electronics,7,Chicago,20,234.52,39,0,1,0,Summer,Local Event,244.82,24,23,7
+2023-04-19,35,Toys,5,Los Angeles,21,414.74,72,0,5,0,Fall,Economic Change,42.09,37,68,7
+2023-04-20,49,Clothing,4,Houston,25,392.12,48,0,7,0,Summer,Economic Change,11.73,47,57,1
+2023-04-21,94,Toys,18,Houston,17,156.38,39,0,3,1,Winter,Festival,35.35,23,55,6
+2023-04-22,4,Clothing,17,Chicago,18,170.1,15,0,7,0,Fall,Festival,100.19,28,86,5
+2023-04-23,99,Groceries,8,Phoenix,20,494.22,98,0,8,1,Spring,None,100.22,40,24,1
+2023-04-24,43,Toys,12,Phoenix,9,83.43,52,0,4,0,Winter,None,223.63,43,76,11
+2023-04-25,78,Clothing,3,Chicago,18,85.39,81,0,7,0,Winter,Festival,140.46,25,40,10
+2023-04-26,22,Toys,9,Phoenix,21,90.8,74,0,1,1,Winter,Local Event,12.52,47,69,1
+2023-04-27,74,Electronics,9,Los Angeles,14,195.7,70,0,3,0,Spring,None,143.66,14,81,10
+2023-04-28,1,Electronics,7,New York,19,393.73,41,0,2,1,Spring,None,218.62,32,40,1
+2023-04-29,11,Toys,2,Houston,33,450.81,10,0,5,0,Winter,None,28.16,23,99,5
+2023-04-30,44,Toys,5,Houston,20,469.59,79,0,8,0,Winter,Local Event,165.07,17,64,8
+2023-05-01,59,Toys,12,Houston,18,163.58,79,0,4,0,Fall,Local Event,113.17,20,64,13
+2023-05-02,24,Toys,6,New York,13,257.08,19,0,6,0,Fall,None,93.05,10,56,1
+2023-05-03,60,Clothing,8,Los Angeles,10,92.08,42,0,9,0,Fall,Economic Change,46.34,13,85,9
+2023-05-04,3,Groceries,11,Chicago,22,300.31,45,0,4,0,Spring,Festival,95.98,33,32,6
+2023-05-05,99,Clothing,10,Phoenix,17,52.94,92,1,9,0,Summer,Festival,100.75,22,84,4
+2023-05-06,63,Electronics,19,Phoenix,20,256.84,67,0,4,0,Spring,Economic Change,236.85,42,29,10
+2023-05-07,36,Electronics,6,New York,18,491.18,46,0,3,1,Winter,Festival,76.69,28,34,6
+2023-05-08,95,Clothing,14,Houston,14,113.19,86,0,7,0,Spring,Local Event,114.9,23,82,11
+2023-05-09,68,Electronics,16,Phoenix,17,144.84,45,0,3,0,Winter,Economic Change,253.47,27,98,10
+2023-05-10,83,Clothing,13,Chicago,15,174.94,27,0,6,0,Fall,None,270.08,35,67,7
+2023-05-11,47,Electronics,12,Phoenix,24,440.05,45,0,4,1,Spring,Economic Change,94.46,41,79,9
+2023-05-12,21,Groceries,1,Houston,18,450.5,73,0,2,1,Summer,Festival,37.5,40,28,6
+2023-05-13,82,Toys,15,Chicago,18,475.38,25,0,7,0,Summer,Economic Change,298.34,34,73,13
+2023-05-14,51,Electronics,8,Houston,19,161.78,17,0,6,1,Spring,None,47.1,18,25,3
+2023-05-15,28,Clothing,1,Houston,13,254.07,58,0,9,0,Winter,None,162.65,30,62,13
+2023-05-16,15,Toys,2,New York,14,221.9,37,0,8,0,Summer,Festival,275.31,11,53,5
+2023-05-17,42,Clothing,16,Houston,28,318.14,68,0,3,0,Winter,Festival,176.74,21,25,12
+2023-05-18,59,Toys,14,Chicago,21,183.18,19,0,7,0,Fall,Economic Change,32.15,43,55,11
+2023-05-19,66,Toys,12,New York,15,423.06,57,0,3,0,Summer,Local Event,257.25,20,27,5
+2023-05-20,37,Toys,16,New York,8,457.76,4,1,8,0,Spring,None,136.86,45,56,6
+2023-05-21,11,Groceries,5,Chicago,25,454.99,62,0,8,1,Spring,Economic Change,80.92,17,79,5
+2023-05-22,87,Electronics,11,New York,27,168.43,16,0,1,0,Summer,Local Event,193.27,15,39,8
+2023-05-23,44,Clothing,8,Chicago,18,268.02,81,0,4,0,Spring,Festival,63.18,24,99,9
+2023-05-24,12,Electronics,11,Phoenix,25,292.03,0,0,2,1,Fall,Economic Change,291.95,34,49,5
+2023-05-25,3,Groceries,12,New York,20,486.47,48,1,9,0,Spring,Festival,64.93,30,68,3
+2023-05-26,52,Clothing,1,Phoenix,23,247.06,31,0,6,1,Fall,Economic Change,282.47,15,71,11
+2023-05-27,81,Groceries,18,New York,13,81.42,41,1,8,0,Spring,Festival,164.81,45,91,10
+2023-05-28,33,Toys,13,Houston,18,339.53,31,0,2,1,Summer,Local Event,226.4,25,70,8
+2023-05-29,55,Clothing,12,Chicago,18,128.51,68,1,6,0,Winter,None,168.7,10,25,11
+2023-05-30,1,Electronics,16,Houston,18,214.34,28,0,7,0,Fall,Local Event,260.76,25,49,9
+2023-05-31,39,Toys,3,Phoenix,14,283.13,18,0,6,0,Fall,Local Event,43.49,16,48,10
+2023-06-01,20,Clothing,3,Chicago,21,483.25,95,0,8,0,Winter,Festival,204.08,40,21,7
+2023-06-02,47,Toys,11,Chicago,19,121.85,16,0,6,0,Spring,Economic Change,295.91,23,88,1
+2023-06-03,43,Toys,5,Phoenix,17,433.34,70,0,4,1,Winter,None,145.68,45,70,11
+2023-06-04,57,Groceries,5,Chicago,20,58.45,84,0,4,0,Winter,Local Event,144.91,18,88,4
+2023-06-05,61,Clothing,13,Chicago,20,71.56,34,0,4,0,Fall,Festival,19.3,41,32,7
+2023-06-06,78,Groceries,18,New York,18,265.76,40,1,2,0,Winter,Economic Change,204.27,46,95,5
+2023-06-07,31,Clothing,17,Los Angeles,20,307.57,78,0,7,1,Summer,Economic Change,290.14,47,59,11
+2023-06-08,25,Groceries,16,Houston,26,135.05,89,1,7,1,Winter,Festival,58.96,38,43,11
+2023-06-09,3,Electronics,7,Los Angeles,19,133.27,55,1,3,0,Winter,Festival,10.85,23,34,4
+2023-06-10,4,Clothing,7,Chicago,16,373.87,23,1,6,0,Winter,None,92.55,23,49,3
+2023-06-11,95,Electronics,17,Los Angeles,17,188.79,86,0,4,0,Spring,Festival,143.27,39,82,8
+2023-06-12,99,Clothing,10,New York,23,369.62,86,0,4,0,Fall,Festival,65.84,25,66,13
+2023-06-13,14,Clothing,14,Phoenix,26,282.87,63,1,4,0,Fall,Festival,234.5,38,79,8
+2023-06-14,41,Electronics,10,Phoenix,19,215.12,47,0,2,0,Spring,Local Event,81.83,27,29,5
+2023-06-15,73,Groceries,3,Los Angeles,21,70.6,32,0,8,0,Spring,Economic Change,54.35,46,91,4
+2023-06-16,20,Electronics,10,New York,15,487.63,45,0,8,0,Fall,None,263.21,26,97,7
+2023-06-17,96,Electronics,15,Phoenix,16,221.01,85,1,6,0,Spring,None,85.58,14,50,4
+2023-06-18,73,Clothing,5,Los Angeles,14,405.34,10,0,1,1,Summer,Economic Change,285.74,22,37,2
+2023-06-19,27,Groceries,1,Los Angeles,15,201.51,88,0,1,0,Spring,Festival,90.51,25,87,6
+2023-06-20,67,Toys,11,Houston,21,454.0,74,0,6,0,Spring,Economic Change,40.69,20,98,3
+2023-06-21,53,Groceries,14,New York,24,82.46,43,0,8,1,Fall,Economic Change,167.38,41,82,6
+2023-06-22,68,Electronics,12,Houston,16,176.62,63,0,4,0,Summer,Festival,148.02,21,36,5
+2023-06-23,62,Toys,3,Los Angeles,21,286.79,57,1,3,1,Fall,Economic Change,114.31,38,51,3
+2023-06-24,15,Electronics,6,Houston,22,325.84,72,0,9,0,Fall,Festival,134.47,36,20,7
+2023-06-25,97,Toys,8,Houston,23,339.55,27,0,8,0,Fall,Economic Change,231.14,29,56,11
+2023-06-26,5,Groceries,18,Los Angeles,18,226.35,48,0,3,0,Fall,None,248.5,13,57,13
+2023-06-27,68,Electronics,4,Phoenix,17,332.45,56,0,1,0,Summer,Economic Change,42.06,47,26,10
+2023-06-28,12,Clothing,16,Chicago,15,439.8,39,0,7,0,Fall,Economic Change,116.22,13,30,2
+2023-06-29,87,Toys,3,Phoenix,27,427.13,28,0,3,1,Summer,Local Event,199.64,24,88,8
+2023-06-30,78,Toys,17,New York,22,163.53,14,0,9,0,Winter,Economic Change,14.72,31,69,8
+2023-07-01,76,Toys,19,Phoenix,16,68.72,30,0,9,0,Fall,Festival,178.38,24,20,6
+2023-07-02,57,Toys,19,Los Angeles,23,157.84,31,1,6,1,Summer,None,70.32,34,76,9
+2023-07-03,17,Toys,11,Houston,25,418.78,64,0,5,0,Winter,Local Event,153.73,14,30,2
+2023-07-04,25,Clothing,19,New York,20,346.51,64,0,1,0,Summer,Festival,234.39,19,75,10
+2023-07-05,30,Electronics,4,New York,15,106.03,11,1,9,1,Fall,Economic Change,217.79,30,22,13
+2023-07-06,22,Clothing,18,New York,24,123.92,37,1,5,0,Spring,Economic Change,184.24,33,48,9
+2023-07-07,26,Groceries,8,Houston,14,169.32,0,0,6,0,Fall,Economic Change,35.38,17,89,4
+2023-07-08,81,Electronics,11,Phoenix,15,434.43,34,1,7,0,Summer,Festival,53.44,34,31,12
+2023-07-09,61,Clothing,15,Houston,13,229.08,18,0,7,0,Summer,Festival,126.39,39,80,1
+2023-07-10,62,Electronics,6,Chicago,23,202.84,32,0,6,1,Fall,Economic Change,287.95,12,37,10
+2023-07-11,84,Groceries,12,New York,20,151.54,38,1,5,0,Summer,Economic Change,199.1,17,83,9
+2023-07-12,34,Clothing,11,Los Angeles,21,353.26,31,0,3,0,Winter,Economic Change,240.14,17,71,10
+2023-07-13,33,Groceries,11,Houston,22,485.62,11,1,5,0,Fall,Economic Change,297.35,14,95,11
+2023-07-14,71,Toys,10,New York,28,85.71,87,0,9,1,Spring,None,30.26,41,70,7
+2023-07-15,86,Electronics,4,Houston,19,276.23,82,0,6,0,Summer,Festival,147.76,37,35,13
+2023-07-16,32,Electronics,12,Houston,22,456.15,27,1,9,0,Winter,Economic Change,215.5,21,60,4
+2023-07-17,14,Clothing,1,Phoenix,17,170.41,33,1,3,0,Spring,None,242.59,17,25,7
+2023-07-18,72,Groceries,7,Houston,17,202.57,9,0,3,0,Summer,Local Event,163.32,11,38,8
+2023-07-19,57,Electronics,2,Los Angeles,36,272.06,5,0,3,0,Summer,None,116.72,32,81,11
+2023-07-20,25,Toys,13,Chicago,19,113.06,68,0,2,0,Winter,Local Event,97.86,31,74,13
+2023-07-21,80,Toys,10,Chicago,18,411.7,3,0,4,0,Winter,None,265.34,40,88,5
+2023-07-22,42,Groceries,12,Houston,30,163.31,75,0,4,1,Summer,None,160.64,37,40,9
+2023-07-23,19,Groceries,4,Houston,16,76.47,12,0,7,0,Spring,Festival,58.64,38,22,6
+2023-07-24,41,Clothing,10,Houston,21,349.14,73,0,1,1,Winter,Festival,240.83,30,39,9
+2023-07-25,55,Groceries,9,Chicago,14,295.38,11,0,2,0,Spring,Festival,96.2,11,22,13
+2023-07-26,80,Toys,9,Houston,18,468.34,13,1,9,1,Winter,Economic Change,101.31,41,67,1
+2023-07-27,12,Toys,10,Phoenix,25,402.19,37,1,6,0,Summer,Economic Change,17.83,23,83,9
+2023-07-28,39,Electronics,14,Houston,21,66.21,20,0,5,0,Summer,Festival,99.74,15,29,5
+2023-07-29,94,Toys,16,Los Angeles,21,288.41,51,0,6,0,Summer,Festival,225.15,20,31,11
+2023-07-30,2,Toys,16,Los Angeles,16,440.52,73,0,6,0,Winter,Economic Change,252.78,20,26,5
+2023-07-31,96,Electronics,5,Chicago,13,58.25,37,1,5,0,Spring,Local Event,280.44,24,71,6
+2023-08-01,45,Clothing,2,Los Angeles,20,218.06,25,1,1,0,Spring,Festival,224.51,42,98,10
+2023-08-02,89,Groceries,6,Chicago,12,424.89,45,0,9,0,Winter,Festival,291.11,14,38,6
+2023-08-03,25,Electronics,11,Los Angeles,18,162.2,3,1,6,0,Winter,Local Event,48.75,36,89,4
+2023-08-04,68,Electronics,1,Chicago,23,55.48,19,1,1,0,Spring,Festival,18.13,32,80,3
+2023-08-05,83,Clothing,7,New York,13,203.26,14,0,5,0,Winter,Festival,224.64,16,22,1
+2023-08-06,4,Groceries,4,Los Angeles,16,65.57,51,1,1,0,Winter,Economic Change,153.1,16,57,6
+2023-08-07,77,Groceries,17,Houston,14,462.06,89,0,4,1,Winter,None,91.23,16,55,6
+2023-08-08,36,Groceries,4,Chicago,23,433.75,2,1,3,1,Summer,Local Event,141.3,49,87,5
+2023-08-09,87,Electronics,7,Chicago,21,239.86,74,0,1,1,Winter,None,103.27,13,94,11
+2023-08-10,62,Toys,10,Phoenix,22,233.52,54,0,3,0,Summer,None,204.61,33,87,12
+2023-08-11,70,Toys,6,New York,17,490.74,7,1,7,0,Fall,None,97.81,12,83,10
+2023-08-12,88,Electronics,12,New York,22,270.17,68,0,1,1,Summer,Economic Change,25.6,15,88,7
+2023-08-13,44,Toys,18,Houston,27,246.51,6,0,6,0,Summer,Local Event,234.39,29,53,6
+2023-08-14,33,Clothing,12,Chicago,15,230.21,68,0,9,0,Fall,Economic Change,11.65,15,91,11
+2023-08-15,12,Toys,4,New York,18,192.96,40,0,5,0,Winter,Festival,45.99,21,84,11
+2023-08-16,85,Electronics,15,New York,23,204.45,96,0,7,1,Winter,Local Event,137.26,38,63,10
+2023-08-17,11,Toys,15,Phoenix,17,249.97,24,0,2,0,Fall,Economic Change,177.39,32,31,9
+2023-08-18,55,Clothing,17,Houston,14,465.59,15,0,4,1,Spring,None,179.9,32,71,10
+2023-08-19,38,Toys,4,Houston,17,445.03,50,1,5,0,Winter,Local Event,213.87,40,31,7
+2023-08-20,29,Toys,7,New York,14,393.25,22,0,3,0,Winter,None,83.76,47,76,4
+2023-08-21,3,Clothing,12,Los Angeles,14,402.7,99,0,3,0,Summer,Local Event,136.04,48,56,10
+2023-08-22,28,Groceries,7,Phoenix,22,240.76,79,0,6,0,Winter,None,249.58,25,31,7
+2023-08-23,84,Clothing,3,Los Angeles,17,312.27,86,0,4,1,Winter,Local Event,69.98,34,34,11
+2023-08-24,90,Toys,1,Phoenix,25,453.61,74,1,2,0,Fall,Festival,123.39,36,43,3
+2023-08-25,24,Groceries,2,Los Angeles,19,198.89,50,0,2,1,Winter,Festival,116.16,47,50,8
+2023-08-26,54,Groceries,5,Houston,22,228.84,36,0,1,0,Spring,Economic Change,230.09,43,21,3
+2023-08-27,52,Electronics,14,Chicago,19,169.29,18,1,9,0,Summer,None,109.72,31,57,9
+2023-08-28,47,Electronics,9,Houston,19,70.22,53,0,6,0,Spring,Festival,270.29,16,99,12
+2023-08-29,21,Clothing,8,New York,24,57.31,0,0,4,0,Fall,Economic Change,295.24,29,62,3
+2023-08-30,54,Clothing,18,Los Angeles,20,172.6,69,0,5,1,Summer,Local Event,71.54,19,63,4
+2023-08-31,30,Clothing,9,New York,20,473.53,68,0,7,0,Winter,Economic Change,112.66,30,77,10
+2023-09-01,68,Toys,6,Houston,25,195.91,40,0,9,1,Fall,None,60.68,21,52,10
+2023-09-02,36,Clothing,2,Los Angeles,29,449.86,44,0,7,0,Spring,Economic Change,78.95,37,51,11
+2023-09-03,40,Electronics,19,Phoenix,13,103.16,12,0,4,0,Spring,Festival,185.96,34,99,10
+2023-09-04,10,Clothing,11,Chicago,15,353.6,5,1,2,0,Fall,Festival,179.53,25,29,8
+2023-09-05,74,Groceries,12,Houston,20,197.86,9,0,1,0,Summer,Festival,106.19,42,27,12
+2023-09-06,42,Electronics,8,Houston,16,451.62,28,0,6,0,Winter,None,171.32,49,60,8
+2023-09-07,24,Groceries,11,Chicago,11,363.98,1,1,2,0,Winter,None,97.3,30,23,4
+2023-09-08,4,Toys,8,Houston,18,203.96,94,0,1,0,Fall,Festival,197.05,44,80,7
+2023-09-09,47,Clothing,13,Los Angeles,23,269.39,23,0,1,1,Summer,Economic Change,212.06,13,39,12
+2023-09-10,91,Electronics,14,Los Angeles,18,155.59,80,0,1,0,Fall,Economic Change,136.69,44,43,3
+2023-09-11,51,Groceries,11,Houston,24,63.55,15,0,3,1,Winter,None,272.85,44,61,9
+2023-09-12,4,Electronics,4,Los Angeles,15,79.13,38,0,8,1,Winter,Local Event,43.4,20,71,3
+2023-09-13,32,Groceries,18,Houston,25,415.3,66,0,2,0,Winter,Local Event,93.97,18,87,10
+2023-09-14,10,Electronics,6,Houston,18,382.81,95,0,2,1,Spring,None,92.69,15,33,1
+2023-09-15,11,Groceries,2,Phoenix,24,349.68,91,0,2,1,Winter,Economic Change,60.62,29,24,12
+2023-09-16,28,Toys,13,Chicago,19,460.91,98,0,4,1,Fall,Local Event,234.34,12,37,1
+2023-09-17,46,Groceries,8,Los Angeles,16,163.58,54,0,5,0,Fall,None,82.55,18,28,5
+2023-09-18,72,Groceries,6,Chicago,22,58.13,62,1,4,0,Spring,None,66.17,15,78,7
+2023-09-19,40,Electronics,3,Phoenix,23,461.61,96,0,4,0,Winter,Economic Change,192.69,40,42,3
+2023-09-20,62,Groceries,17,New York,12,493.96,18,1,6,1,Spring,None,151.94,24,24,10
+2023-09-21,86,Groceries,14,Houston,24,125.22,76,0,3,0,Summer,Festival,260.28,22,88,10
+2023-09-22,98,Clothing,9,Los Angeles,20,347.84,27,0,2,1,Fall,Local Event,70.44,45,56,11
+2023-09-23,45,Groceries,8,New York,28,95.56,47,0,2,0,Spring,None,177.52,19,69,7
+2023-09-24,35,Clothing,2,New York,15,74.88,85,1,5,0,Summer,None,199.37,33,83,13
+2023-09-25,35,Electronics,2,Los Angeles,18,213.2,89,0,2,1,Fall,Economic Change,87.14,23,45,12
+2023-09-26,89,Groceries,2,New York,23,95.27,42,0,1,0,Fall,Festival,60.71,22,47,5
+2023-09-27,34,Toys,10,Houston,20,100.03,91,1,4,0,Fall,Economic Change,160.26,27,57,10
+2023-09-28,6,Electronics,5,Houston,15,272.29,49,0,9,0,Winter,None,187.67,18,93,1
+2023-09-29,37,Toys,7,Houston,27,288.44,40,0,3,1,Fall,Festival,175.56,30,74,6
+2023-09-30,1,Clothing,2,Phoenix,18,227.17,59,0,7,1,Winter,Economic Change,176.08,27,77,4
+2023-10-01,76,Clothing,19,New York,28,349.27,6,0,1,0,Winter,None,154.23,46,63,11
+2023-10-02,35,Toys,11,Houston,23,494.01,41,0,3,0,Spring,None,69.67,35,20,13
+2023-10-03,70,Toys,16,Phoenix,21,428.83,6,0,7,0,Summer,Economic Change,207.03,20,46,10
+2023-10-04,54,Toys,4,Houston,24,393.87,3,0,3,1,Spring,Festival,156.73,45,91,2
+2023-10-05,81,Electronics,19,Houston,21,237.34,83,1,9,0,Winter,Festival,253.26,11,40,9
+2023-10-06,63,Toys,7,Los Angeles,20,198.43,86,0,2,1,Summer,None,242.96,19,20,8
+2023-10-07,9,Groceries,1,Houston,22,307.09,1,0,5,1,Winter,Festival,166.3,16,46,10
+2023-10-08,62,Electronics,15,Houston,26,188.71,52,0,1,0,Summer,None,120.81,24,40,1
+2023-10-09,2,Clothing,4,Houston,19,126.47,86,0,4,1,Winter,Festival,160.69,17,25,10
+2023-10-10,82,Toys,6,Houston,16,440.7,98,1,8,1,Fall,None,277.52,32,89,6
+2023-10-11,36,Clothing,8,Houston,21,104.32,61,1,6,0,Spring,None,162.23,35,40,11
+2023-10-12,92,Groceries,17,Chicago,25,492.95,54,0,8,1,Winter,Local Event,165.57,15,41,10
+2023-10-13,41,Toys,12,Chicago,16,166.73,61,0,4,0,Winter,Local Event,160.62,17,40,1
+2023-10-14,37,Clothing,12,Phoenix,15,381.76,34,0,8,0,Summer,None,292.17,36,65,13
+2023-10-15,49,Groceries,13,Phoenix,22,77.5,82,1,7,0,Summer,None,270.05,11,64,2
+2023-10-16,26,Toys,3,Phoenix,18,411.41,67,0,1,0,Fall,Local Event,127.92,17,24,5
+2023-10-17,68,Groceries,6,Chicago,17,282.1,2,0,9,0,Winter,None,148.47,47,84,6
+2023-10-18,36,Toys,18,Phoenix,16,485.39,33,0,4,0,Winter,Economic Change,99.56,46,74,5
+2023-10-19,31,Groceries,15,Los Angeles,16,271.55,0,0,4,0,Winter,Local Event,23.07,20,56,4
+2023-10-20,30,Clothing,6,New York,20,399.95,81,0,5,0,Fall,Local Event,286.95,12,91,2
+2023-10-21,34,Electronics,15,Los Angeles,24,154.63,23,0,2,1,Winter,Festival,66.06,35,44,3
+2023-10-22,19,Toys,18,New York,23,206.7,65,0,5,0,Fall,Economic Change,190.36,40,53,4
+2023-10-23,18,Toys,10,New York,19,404.89,65,0,8,0,Fall,Festival,263.37,17,87,13
+2023-10-24,94,Electronics,15,Houston,24,442.75,1,1,1,0,Winter,None,93.71,44,84,13
+2023-10-25,85,Clothing,13,Phoenix,15,97.88,20,0,6,1,Winter,Festival,253.68,19,60,2
+2023-10-26,3,Toys,3,New York,16,361.04,76,0,5,1,Fall,Economic Change,114.29,48,98,3
+2023-10-27,70,Electronics,4,Houston,15,491.19,74,1,2,0,Spring,None,222.79,23,26,6
+2023-10-28,13,Electronics,1,Los Angeles,15,476.09,95,0,8,0,Summer,Economic Change,43.42,47,42,9
+2023-10-29,45,Clothing,13,Houston,21,213.95,38,0,4,0,Summer,Economic Change,109.22,31,89,3
+2023-10-30,67,Electronics,13,New York,25,184.47,69,0,5,0,Winter,Festival,173.96,29,88,1
+2023-10-31,92,Toys,13,Houston,24,110.53,56,0,6,0,Summer,Economic Change,156.53,26,50,8
+2023-11-01,86,Clothing,1,Houston,14,494.35,21,0,1,0,Winter,Local Event,274.98,21,35,7
+2023-11-02,40,Groceries,18,Los Angeles,22,395.98,90,0,1,0,Summer,Economic Change,217.53,35,78,11
+2023-11-03,40,Groceries,3,Los Angeles,19,331.61,61,1,9,0,Fall,None,139.86,17,41,10
+2023-11-04,76,Toys,19,New York,13,284.45,72,0,9,1,Spring,Local Event,65.44,44,63,1
+2023-11-05,23,Electronics,5,Houston,19,412.88,8,0,5,0,Summer,Economic Change,206.42,36,82,6
+2023-11-06,31,Clothing,6,Chicago,24,343.25,28,1,5,0,Summer,None,74.95,39,98,9
+2023-11-07,18,Groceries,18,Houston,19,269.43,14,0,4,0,Winter,Economic Change,138.15,19,70,12
+2023-11-08,71,Clothing,7,New York,19,248.74,81,0,3,1,Fall,Festival,238.11,19,85,8
+2023-11-09,72,Toys,16,Chicago,23,220.36,50,0,3,1,Summer,Local Event,274.26,20,84,7
+2023-11-10,19,Toys,2,Houston,28,486.44,32,1,6,0,Spring,Local Event,68.85,23,79,1
+2023-11-11,93,Clothing,16,Los Angeles,13,461.66,55,0,3,0,Summer,Festival,202.0,33,32,7
+2023-11-12,44,Clothing,10,New York,22,200.24,88,1,6,0,Summer,Local Event,114.42,38,73,12
+2023-11-13,84,Toys,14,Houston,27,79.2,6,0,1,0,Fall,None,251.35,23,88,10
+2023-11-14,50,Toys,18,Los Angeles,18,119.99,15,0,4,1,Summer,Festival,114.37,32,68,7
+2023-11-15,42,Electronics,13,New York,25,318.29,15,0,8,0,Spring,Economic Change,259.99,44,90,12
+2023-11-16,94,Groceries,14,Chicago,21,375.86,92,1,8,0,Spring,Economic Change,112.44,45,64,13
+2023-11-17,47,Electronics,19,Chicago,22,438.43,89,0,2,1,Spring,Festival,152.38,33,97,11
+2023-11-18,22,Clothing,16,New York,22,459.37,14,0,5,0,Spring,Festival,10.14,24,75,3
+2023-11-19,74,Groceries,3,Los Angeles,20,470.67,22,0,8,0,Winter,Economic Change,291.32,33,50,6
+2023-11-20,90,Electronics,12,Chicago,17,489.98,66,0,7,0,Fall,Festival,268.13,47,91,6
+2023-11-21,97,Groceries,10,New York,21,400.54,90,0,8,1,Winter,Economic Change,65.21,40,79,12
+2023-11-22,92,Electronics,19,Houston,25,379.94,17,1,3,0,Winter,Festival,177.55,41,42,13
+2023-11-23,74,Clothing,9,New York,16,203.19,47,0,4,0,Winter,Economic Change,276.47,45,38,7
+2023-11-24,29,Toys,16,New York,14,468.0,18,0,8,0,Summer,Local Event,299.49,17,93,8
+2023-11-25,82,Groceries,5,New York,24,111.84,88,0,4,1,Winter,Local Event,116.85,28,47,5
+2023-11-26,59,Clothing,11,Los Angeles,23,295.18,8,0,7,1,Fall,None,225.03,41,38,1
+2023-11-27,1,Clothing,18,Phoenix,25,253.43,22,0,3,1,Summer,Festival,106.58,16,42,6
+2023-11-28,87,Toys,7,Houston,23,450.62,89,0,5,1,Summer,Economic Change,252.61,25,64,13
+2023-11-29,64,Toys,13,Los Angeles,24,339.09,73,0,6,0,Winter,None,188.51,45,69,10
+2023-11-30,17,Toys,9,New York,9,223.3,15,1,6,0,Fall,None,203.08,47,25,5
+2023-12-01,37,Groceries,9,Houston,29,92.23,95,0,1,0,Fall,Festival,187.98,26,71,11
+2023-12-02,95,Toys,9,Los Angeles,25,179.91,60,0,3,0,Fall,Economic Change,173.98,11,68,2
+2023-12-03,25,Groceries,13,Chicago,22,278.63,45,0,1,1,Fall,Local Event,214.59,48,47,4
+2023-12-04,64,Toys,6,Houston,22,227.84,26,0,2,0,Fall,Economic Change,35.32,19,22,12
+2023-12-05,68,Electronics,19,Phoenix,24,477.07,15,1,2,1,Spring,Economic Change,53.79,13,98,7
+2023-12-06,52,Electronics,3,Phoenix,14,318.79,68,0,5,0,Winter,Local Event,188.35,33,68,10
+2023-12-07,9,Clothing,6,Houston,24,368.15,10,1,2,1,Spring,Local Event,85.35,15,85,8
+2023-12-08,57,Electronics,6,Houston,9,318.04,84,0,2,0,Summer,None,156.25,10,51,13
+2023-12-09,92,Toys,5,New York,26,232.3,47,0,3,1,Summer,Economic Change,208.38,16,41,13
+2023-12-10,94,Groceries,11,New York,28,77.6,46,0,9,1,Summer,Economic Change,123.51,12,91,2
+2023-12-11,88,Groceries,18,New York,17,63.94,47,0,1,1,Winter,Economic Change,260.58,17,66,7
+2023-12-12,33,Toys,12,Houston,21,344.18,69,0,6,0,Fall,Local Event,51.8,33,77,7
+2023-12-13,20,Groceries,18,Phoenix,22,362.68,46,1,2,0,Winter,None,291.81,42,94,8
+2023-12-14,73,Clothing,9,Chicago,22,130.96,26,0,3,0,Spring,Festival,252.78,46,29,4
+2023-12-15,72,Electronics,4,Phoenix,16,335.11,93,1,7,0,Spring,Festival,286.58,49,68,11
+2023-12-16,88,Toys,17,New York,23,54.86,45,1,6,0,Spring,None,12.93,16,74,8
+2023-12-17,14,Electronics,12,Los Angeles,20,250.06,7,1,3,1,Winter,None,67.22,18,47,12
+2023-12-18,59,Electronics,19,Phoenix,18,175.6,3,1,9,0,Summer,Festival,260.79,28,52,12
+2023-12-19,82,Toys,16,New York,26,447.28,25,1,8,0,Spring,Economic Change,261.17,16,34,3
+2023-12-20,56,Toys,4,Houston,25,188.66,65,0,7,1,Spring,Economic Change,239.16,42,27,5
+2023-12-21,65,Electronics,5,Chicago,15,225.86,28,0,5,0,Summer,Festival,164.51,24,57,2
+2023-12-22,76,Toys,8,Los Angeles,20,122.0,79,0,5,0,Spring,Economic Change,237.53,41,35,6
+2023-12-23,93,Electronics,4,Phoenix,18,108.8,71,0,7,1,Summer,None,159.86,45,97,13
+2023-12-24,37,Electronics,12,New York,19,203.8,48,0,6,1,Winter,Economic Change,187.16,35,35,12
+2023-12-25,26,Electronics,16,Phoenix,22,387.39,71,0,2,0,Summer,Festival,248.41,22,51,2
+2023-12-26,33,Toys,14,Chicago,13,80.59,97,0,6,0,Fall,Economic Change,225.05,34,62,1
+2023-12-27,43,Toys,16,Los Angeles,20,76.78,6,0,6,1,Fall,None,120.31,24,71,11
+2023-12-28,15,Clothing,2,Phoenix,18,414.98,82,0,1,0,Summer,Festival,58.52,19,35,13
+2023-12-29,87,Electronics,12,Chicago,16,285.89,34,0,7,1,Summer,Economic Change,35.64,32,78,8
+2023-12-30,29,Electronics,6,Los Angeles,19,436.9,37,0,5,1,Summer,Local Event,43.46,22,58,11
+2023-12-31,21,Electronics,5,Phoenix,18,326.07,99,1,3,0,Summer,Economic Change,106.75,47,55,7
+2024-01-01,83,Clothing,1,New York,20,85.3,17,0,8,1,Spring,Festival,254.38,43,30,5
+2024-01-02,69,Electronics,6,Chicago,22,128.23,63,1,5,0,Fall,Economic Change,37.68,14,61,4
+2024-01-03,23,Clothing,12,New York,26,248.94,22,0,8,0,Summer,Economic Change,104.41,29,87,2
+2024-01-04,84,Clothing,14,Chicago,24,134.81,36,0,2,0,Winter,Festival,263.67,14,65,10
+2024-01-05,8,Toys,8,New York,12,439.54,18,1,1,0,Fall,Economic Change,173.78,20,61,7
+2024-01-06,73,Clothing,9,New York,21,491.32,73,1,7,0,Summer,None,25.83,21,22,6
+2024-01-07,62,Toys,12,Phoenix,12,328.52,5,0,2,0,Summer,None,191.8,21,80,4
+2024-01-08,14,Groceries,2,Phoenix,24,341.97,7,1,3,0,Fall,None,125.08,11,38,3
+2024-01-09,6,Electronics,15,New York,23,450.12,22,0,1,0,Summer,Local Event,210.03,47,97,5
+2024-01-10,1,Groceries,7,Chicago,18,355.03,17,0,8,1,Summer,Economic Change,253.54,14,47,5
+2024-01-11,9,Electronics,12,Phoenix,22,223.46,40,0,7,0,Spring,Local Event,218.51,19,84,6
+2024-01-12,80,Clothing,11,Phoenix,20,157.93,81,0,4,1,Fall,Local Event,94.25,37,43,4
+2024-01-13,80,Toys,1,New York,22,234.2,92,0,4,1,Winter,Economic Change,61.29,41,42,13
+2024-01-14,54,Clothing,19,Chicago,15,485.06,62,1,2,0,Fall,None,218.44,30,99,5
+2024-01-15,12,Electronics,9,New York,19,86.12,88,1,2,1,Summer,Festival,259.96,29,42,2
+2024-01-16,5,Electronics,7,Houston,19,96.32,32,0,5,1,Spring,None,56.89,47,81,6
+2024-01-17,40,Clothing,12,New York,17,348.09,48,0,3,0,Winter,Local Event,282.56,37,33,12
+2024-01-18,93,Electronics,4,Chicago,18,321.81,99,0,2,0,Spring,None,191.54,32,44,9
+2024-01-19,46,Electronics,5,Phoenix,21,381.78,28,0,3,0,Winter,Festival,69.04,41,57,2
+2024-01-20,27,Groceries,5,Phoenix,13,455.41,25,1,4,0,Spring,Economic Change,65.6,37,89,5
+2024-01-21,75,Clothing,18,Los Angeles,17,281.55,29,0,2,0,Spring,Local Event,190.46,12,59,7
+2024-01-22,53,Groceries,16,New York,20,207.64,28,0,2,1,Fall,None,57.59,44,80,10
+2024-01-23,50,Clothing,9,Phoenix,29,284.16,87,0,4,1,Winter,Local Event,241.79,26,82,13
+2024-01-24,92,Groceries,10,Houston,25,128.47,62,1,3,1,Fall,None,209.18,28,67,13
+2024-01-25,52,Toys,19,Phoenix,22,455.16,73,0,8,0,Summer,Local Event,107.29,48,55,12
+2024-01-26,19,Electronics,18,Houston,15,357.04,73,1,9,0,Winter,None,135.59,13,27,2
+2024-01-27,35,Electronics,8,Phoenix,17,441.8,74,0,9,0,Spring,None,77.91,43,22,7
+2024-01-28,52,Clothing,4,Phoenix,25,186.09,21,0,9,0,Winter,Festival,14.14,17,29,8
+2024-01-29,31,Clothing,10,Chicago,20,452.19,22,0,3,0,Fall,Local Event,243.43,28,63,7
+2024-01-30,54,Clothing,16,Phoenix,26,118.36,91,0,6,0,Winter,None,125.13,16,69,5
+2024-01-31,59,Groceries,17,Houston,22,216.59,4,1,6,1,Winter,None,196.74,16,60,11
+2024-02-01,44,Clothing,8,Chicago,20,82.2,54,0,5,0,Fall,Local Event,90.21,33,76,4
+2024-02-02,56,Electronics,4,Phoenix,17,325.0,12,1,5,0,Spring,Festival,226.39,34,72,4
+2024-02-03,19,Clothing,8,Chicago,12,159.07,65,0,8,0,Spring,Local Event,27.54,10,86,4
+2024-02-04,46,Electronics,9,Phoenix,21,155.42,12,0,7,0,Fall,Festival,215.19,46,40,4
+2024-02-05,88,Groceries,6,Los Angeles,25,497.08,20,1,6,0,Summer,Festival,243.08,45,71,13
+2024-02-06,66,Electronics,6,Chicago,18,157.99,13,0,5,1,Fall,Local Event,11.11,12,82,7
+2024-02-07,71,Toys,2,Houston,26,280.62,26,0,4,1,Spring,Festival,67.81,31,98,13
+2024-02-08,54,Electronics,15,Los Angeles,13,327.44,65,0,9,0,Summer,Economic Change,277.47,19,64,5
+2024-02-09,49,Toys,7,Phoenix,25,485.95,97,0,4,0,Spring,Economic Change,11.27,31,24,12
+2024-02-10,95,Groceries,18,Phoenix,21,474.71,5,0,8,1,Summer,Economic Change,39.76,10,48,11
+2024-02-11,60,Electronics,9,Los Angeles,21,235.06,46,0,9,0,Winter,None,20.72,10,54,7
+2024-02-12,81,Groceries,2,New York,16,100.34,74,1,3,1,Spring,Festival,281.04,45,71,7
+2024-02-13,27,Groceries,3,Los Angeles,21,137.32,35,1,2,0,Summer,None,96.4,41,88,9
+2024-02-14,36,Toys,17,Houston,23,54.6,25,0,4,0,Spring,Festival,63.12,14,41,1
+2024-02-15,59,Groceries,3,Phoenix,22,50.43,47,0,4,0,Fall,Economic Change,164.81,18,53,9
+2024-02-16,50,Electronics,12,Chicago,20,399.69,0,0,4,0,Summer,Economic Change,254.84,16,99,9
+2024-02-17,74,Toys,11,New York,17,210.58,21,0,6,0,Winter,Local Event,288.08,25,54,6
+2024-02-18,45,Groceries,5,Chicago,17,341.8,7,0,4,0,Spring,Festival,58.9,46,54,10
+2024-02-19,14,Clothing,15,Los Angeles,24,303.47,2,0,5,0,Winter,Festival,29.74,32,96,11
+2024-02-20,71,Toys,8,Phoenix,25,445.66,4,0,5,0,Winter,Festival,225.16,31,52,7
+2024-02-21,39,Electronics,6,Houston,22,308.9,56,0,6,0,Winter,None,51.18,29,22,6
+2024-02-22,40,Electronics,15,Los Angeles,19,99.56,34,0,2,0,Fall,Economic Change,82.95,32,52,13
+2024-02-23,9,Clothing,19,Los Angeles,22,445.75,54,1,8,0,Winter,Festival,150.66,17,53,4
+2024-02-24,14,Toys,15,Chicago,24,375.25,22,0,2,0,Fall,Festival,83.05,21,29,4
+2024-02-25,8,Clothing,16,Chicago,25,188.4,79,1,2,0,Summer,None,175.85,25,91,5
+2024-02-26,81,Toys,1,Phoenix,18,389.92,21,0,7,0,Spring,None,117.23,21,43,2
+2024-02-27,23,Toys,7,Chicago,20,226.93,2,0,6,0,Winter,Economic Change,233.2,19,91,6
+2024-02-28,80,Clothing,10,New York,17,437.47,79,0,5,1,Summer,Local Event,52.7,42,31,12
+2024-02-29,90,Clothing,2,Phoenix,22,273.02,52,0,8,0,Summer,Economic Change,22.03,45,55,12
+2024-03-01,9,Toys,12,Houston,21,322.59,23,0,6,1,Winter,None,195.27,44,44,13
+2024-03-02,7,Groceries,7,New York,24,83.17,94,1,6,0,Summer,None,153.22,14,93,8
+2024-03-03,82,Toys,9,Los Angeles,25,425.11,45,1,9,0,Summer,Festival,160.25,20,66,12
+2024-03-04,72,Electronics,5,Chicago,21,271.25,61,0,7,0,Summer,None,101.95,29,43,10
+2024-03-05,85,Electronics,13,Houston,21,112.22,18,0,2,1,Fall,Local Event,242.1,48,63,6
+2024-03-06,90,Clothing,4,Phoenix,16,72.45,27,0,2,1,Fall,Festival,79.83,34,43,12
+2024-03-07,67,Toys,6,Chicago,16,212.89,82,0,9,1,Spring,Local Event,260.0,39,26,9
+2024-03-08,61,Groceries,13,New York,22,485.13,9,1,8,0,Spring,None,68.92,19,40,7
+2024-03-09,17,Groceries,19,Los Angeles,22,427.36,69,1,5,1,Summer,None,212.43,18,66,6
+2024-03-10,57,Clothing,1,Los Angeles,24,325.57,98,0,4,0,Fall,None,216.96,30,52,7
+2024-03-11,24,Clothing,2,Chicago,17,267.14,23,0,4,0,Winter,None,166.69,20,62,10
+2024-03-12,25,Clothing,14,Phoenix,18,482.79,71,0,4,0,Winter,Economic Change,280.11,15,39,9
+2024-03-13,5,Clothing,17,Phoenix,21,480.27,30,0,7,1,Summer,Economic Change,274.56,24,84,8
+2024-03-14,50,Groceries,12,Chicago,15,280.75,9,0,7,0,Fall,Local Event,57.36,35,82,1
+2024-03-15,88,Electronics,15,Chicago,17,118.97,82,0,8,0,Spring,Economic Change,118.15,48,24,6
+2024-03-16,31,Groceries,14,Chicago,19,289.95,20,0,2,0,Summer,None,85.47,14,76,8
+2024-03-17,55,Electronics,9,Houston,26,219.97,80,1,7,0,Winter,Economic Change,175.34,28,51,9
+2024-03-18,26,Electronics,4,Chicago,25,379.8,86,1,7,0,Spring,None,253.77,20,68,6
+2024-03-19,21,Electronics,10,Houston,29,236.5,17,0,2,1,Winter,Economic Change,113.32,48,91,7
+2024-03-20,98,Groceries,18,New York,23,59.75,92,0,8,0,Fall,Economic Change,159.9,42,69,12
+2024-03-21,58,Toys,6,Chicago,24,416.46,92,0,6,1,Winter,Economic Change,24.29,43,32,12
+2024-03-22,24,Clothing,12,Chicago,17,405.63,44,0,9,1,Fall,Festival,17.02,40,37,10
+2024-03-23,28,Clothing,14,Phoenix,26,337.13,17,0,8,0,Fall,Local Event,116.6,27,49,2
+2024-03-24,30,Toys,10,Chicago,20,418.63,41,0,5,1,Summer,None,228.26,15,71,13
+2024-03-25,34,Groceries,14,Houston,17,68.86,9,0,6,0,Spring,None,72.26,15,23,4
+2024-03-26,54,Groceries,14,Houston,26,390.25,23,1,1,0,Fall,Economic Change,117.11,18,50,3
+2024-03-27,52,Toys,17,Chicago,20,254.69,77,0,6,0,Summer,Local Event,52.28,49,65,5
+2024-03-28,87,Electronics,18,Houston,22,110.92,71,0,7,0,Winter,Festival,31.26,25,43,3
+2024-03-29,8,Groceries,14,Chicago,30,92.56,90,0,9,1,Spring,None,195.52,41,38,12
+2024-03-30,10,Electronics,8,New York,13,360.11,26,0,5,1,Spring,None,217.4,34,86,12
+2024-03-31,55,Groceries,18,Houston,14,341.82,19,0,6,1,Fall,Economic Change,36.37,45,40,8
+2024-04-01,1,Toys,5,Houston,15,93.74,67,0,1,0,Spring,Economic Change,282.33,46,68,5
+2024-04-02,84,Clothing,12,Houston,27,294.41,56,0,3,0,Spring,Local Event,62.89,46,41,9
+2024-04-03,37,Clothing,16,Houston,18,468.37,8,1,2,0,Winter,Festival,157.62,17,82,11
+2024-04-04,82,Clothing,9,Chicago,14,408.11,46,0,2,0,Winter,Festival,143.37,26,49,10
+2024-04-05,21,Groceries,7,Chicago,20,483.23,72,0,9,0,Summer,Local Event,51.1,12,88,7
+2024-04-06,4,Toys,8,New York,20,410.44,2,0,8,0,Fall,Local Event,220.1,14,61,9
+2024-04-07,43,Electronics,12,Chicago,18,344.8,5,0,9,1,Fall,None,203.46,43,81,6
+2024-04-08,66,Clothing,6,Houston,14,460.29,14,0,7,0,Summer,Economic Change,287.58,14,50,3
+2024-04-09,21,Electronics,18,New York,19,352.57,33,0,9,1,Summer,Festival,42.32,41,22,2
+2024-04-10,37,Clothing,10,Los Angeles,21,275.11,68,0,6,0,Fall,Economic Change,191.67,18,28,9
+2024-04-11,69,Electronics,1,Phoenix,14,91.47,97,0,2,1,Fall,Local Event,268.64,21,96,13
+2024-04-12,81,Groceries,7,New York,25,236.76,65,1,5,0,Summer,Festival,249.1,17,26,3
+2024-04-13,48,Groceries,8,Phoenix,24,134.27,51,0,2,0,Summer,Economic Change,266.8,39,62,9
+2024-04-14,11,Electronics,19,Houston,14,442.71,43,0,4,0,Summer,Local Event,15.54,25,65,3
+2024-04-15,95,Groceries,7,Los Angeles,18,242.73,3,0,3,0,Fall,Economic Change,29.81,42,71,1
+2024-04-16,92,Electronics,4,Phoenix,20,266.19,52,0,8,0,Fall,None,246.01,27,56,9
+2024-04-17,44,Groceries,6,New York,17,393.7,88,0,1,0,Summer,Economic Change,260.27,23,43,12
+2024-04-18,64,Groceries,10,Chicago,18,435.25,4,1,9,0,Spring,Local Event,299.89,14,20,11
+2024-04-19,32,Electronics,6,Phoenix,26,224.53,26,0,2,0,Winter,Festival,294.09,47,21,13
+2024-04-20,21,Clothing,17,Chicago,25,226.4,30,0,4,0,Summer,Festival,42.38,42,62,3
+2024-04-21,71,Clothing,7,Phoenix,12,113.21,36,0,5,0,Winter,Festival,134.39,18,46,6
+2024-04-22,10,Toys,12,Houston,32,255.94,46,0,2,0,Summer,Local Event,117.7,29,68,4
+2024-04-23,61,Toys,18,Chicago,18,171.73,73,0,3,1,Winter,Local Event,91.54,12,68,10
+2024-04-24,92,Clothing,8,Los Angeles,21,124.67,7,1,1,0,Fall,Economic Change,247.93,16,92,5
+2024-04-25,36,Electronics,19,New York,20,275.06,28,0,3,0,Winter,None,193.24,19,38,5
+2024-04-26,84,Toys,11,Los Angeles,24,228.23,14,0,6,0,Spring,Local Event,296.13,29,38,2
+2024-04-27,77,Clothing,7,Phoenix,14,363.03,57,0,1,0,Spring,None,214.36,32,33,6
+2024-04-28,19,Groceries,5,Phoenix,22,335.52,31,1,5,0,Spring,None,198.88,16,27,3
+2024-04-29,75,Clothing,8,Los Angeles,26,179.26,40,0,7,0,Summer,Festival,268.63,26,23,3
+2024-04-30,99,Toys,16,Phoenix,21,450.34,65,0,8,0,Fall,None,54.22,23,40,13
+2024-05-01,98,Groceries,14,Houston,18,316.07,85,0,6,0,Summer,Economic Change,246.0,26,74,6
+2024-05-02,44,Clothing,4,New York,22,174.95,21,0,5,0,Summer,Economic Change,70.37,13,70,12
+2024-05-03,4,Clothing,7,Houston,22,94.47,95,0,8,0,Spring,None,73.31,26,86,8
+2024-05-04,13,Electronics,12,Chicago,25,398.01,82,0,9,0,Fall,Local Event,136.77,12,76,2
+2024-05-05,59,Groceries,8,New York,17,250.97,31,0,2,1,Winter,Festival,127.06,21,98,3
+2024-05-06,2,Groceries,12,New York,16,468.14,97,1,3,0,Fall,None,207.14,23,77,1
+2024-05-07,1,Groceries,17,Phoenix,25,496.03,6,0,1,0,Winter,Local Event,11.03,27,32,2
+2024-05-08,40,Clothing,5,Chicago,27,389.98,28,0,9,0,Winter,Economic Change,250.64,17,60,6
+2024-05-09,25,Clothing,19,Los Angeles,20,63.8,88,1,4,0,Fall,Local Event,73.41,25,77,5
+2024-05-10,59,Toys,12,Chicago,25,384.96,84,0,8,0,Summer,Local Event,100.66,32,39,13
+2024-05-11,37,Electronics,3,Los Angeles,28,379.18,28,0,7,0,Summer,Economic Change,246.24,11,86,5
+2024-05-12,70,Toys,17,Chicago,17,263.2,17,0,9,1,Summer,Economic Change,231.76,21,88,2
+2024-05-13,7,Electronics,10,Chicago,14,299.37,39,1,2,1,Winter,None,137.88,41,42,10
+2024-05-14,4,Toys,6,Los Angeles,19,388.08,16,0,6,0,Fall,None,155.63,44,61,9
+2024-05-15,99,Electronics,9,Houston,18,173.28,58,0,3,1,Spring,Economic Change,76.09,11,80,2
+2024-05-16,41,Toys,18,Phoenix,21,219.46,1,0,4,0,Winter,None,56.15,30,32,9
+2024-05-17,61,Clothing,17,Phoenix,20,484.32,53,0,9,1,Spring,None,124.64,31,85,10
+2024-05-18,34,Electronics,13,Phoenix,21,54.68,69,0,4,0,Fall,None,242.78,14,38,3
+2024-05-19,29,Groceries,6,Los Angeles,18,309.7,55,0,3,0,Fall,Festival,117.37,33,23,4
+2024-05-20,69,Electronics,19,Phoenix,14,287.27,56,0,5,0,Spring,Festival,207.25,32,83,3
+2024-05-21,27,Toys,13,New York,28,478.83,99,0,6,0,Spring,None,135.58,44,41,12
+2024-05-22,97,Clothing,2,Chicago,17,418.77,36,0,8,0,Summer,Economic Change,96.72,10,59,6
+2024-05-23,52,Electronics,11,Los Angeles,15,349.27,31,0,6,0,Winter,Local Event,141.77,13,28,13
+2024-05-24,74,Groceries,4,Los Angeles,19,262.18,65,0,8,0,Spring,None,237.99,29,85,8
+2024-05-25,54,Groceries,17,New York,16,431.35,95,0,5,0,Spring,Festival,42.52,45,61,9
+2024-05-26,70,Groceries,7,Chicago,24,163.71,96,0,2,1,Spring,Festival,245.09,21,52,2
+2024-05-27,34,Clothing,1,Phoenix,16,382.74,18,1,9,1,Fall,None,184.26,48,74,1
+2024-05-28,8,Groceries,8,Los Angeles,15,112.81,30,0,3,0,Summer,Festival,265.03,37,68,3
+2024-05-29,95,Electronics,4,Los Angeles,16,476.52,14,0,5,0,Spring,None,38.19,28,38,13
+2024-05-30,73,Toys,5,Los Angeles,23,330.24,85,0,9,0,Fall,Local Event,151.36,34,51,11
+2024-05-31,85,Toys,13,Los Angeles,15,137.81,95,0,6,0,Fall,Festival,285.0,20,71,8
+2024-06-01,8,Electronics,18,Los Angeles,29,341.82,32,0,3,0,Spring,Festival,72.78,43,80,4
+2024-06-02,68,Toys,9,Los Angeles,20,360.11,11,0,2,0,Winter,None,156.78,27,35,5
+2024-06-03,86,Groceries,16,New York,24,269.55,78,0,2,0,Summer,Local Event,36.31,29,40,12
+2024-06-04,92,Clothing,7,Los Angeles,16,213.17,15,1,3,1,Fall,Economic Change,245.24,45,37,12
+2024-06-05,68,Toys,11,Houston,17,369.7,7,1,6,0,Fall,Festival,247.57,41,59,1
+2024-06-06,85,Groceries,2,Chicago,17,126.5,71,1,2,0,Spring,None,50.95,17,86,1
+2024-06-07,72,Toys,5,Chicago,21,212.89,74,1,5,0,Fall,Festival,190.64,49,97,7
+2024-06-08,84,Electronics,5,Phoenix,28,180.52,62,0,1,0,Winter,Economic Change,91.8,49,82,2
+2024-06-09,96,Electronics,14,Los Angeles,18,113.42,84,0,5,0,Summer,Festival,156.33,21,32,10
+2024-06-10,1,Toys,14,Los Angeles,21,350.98,33,1,9,0,Winter,Festival,183.17,48,67,5
+2024-06-11,6,Toys,10,New York,17,349.8,18,0,1,0,Spring,Festival,98.11,13,54,9
+2024-06-12,92,Groceries,9,Houston,18,450.78,42,0,5,0,Summer,Local Event,131.22,27,39,1
+2024-06-13,31,Toys,7,Chicago,16,220.52,27,1,1,0,Winter,None,232.97,43,68,7
+2024-06-14,74,Clothing,13,Chicago,17,88.97,24,0,1,1,Spring,Festival,149.44,11,29,5
+2024-06-15,84,Toys,3,Phoenix,23,226.13,69,0,3,0,Winter,Festival,66.02,40,47,8
+2024-06-16,8,Electronics,4,Los Angeles,27,254.23,67,0,2,1,Spring,Economic Change,105.86,38,89,5
+2024-06-17,22,Clothing,9,New York,26,109.52,29,0,4,0,Fall,None,89.84,49,57,13
+2024-06-18,93,Toys,17,Phoenix,24,463.87,30,0,9,1,Winter,Festival,56.44,11,82,10
+2024-06-19,9,Groceries,6,Phoenix,14,58.17,95,0,2,0,Winter,Economic Change,237.8,49,44,2
+2024-06-20,44,Toys,9,Phoenix,23,210.31,34,0,6,0,Spring,Local Event,129.7,47,77,10
+2024-06-21,47,Electronics,6,New York,25,211.21,26,0,6,1,Winter,Local Event,186.2,12,30,5
+2024-06-22,1,Electronics,5,New York,18,490.67,67,0,6,0,Winter,None,250.24,16,94,13
+2024-06-23,52,Electronics,12,Los Angeles,19,155.26,23,0,6,0,Fall,Economic Change,124.41,38,28,2
+2024-06-24,39,Electronics,3,New York,16,311.84,72,1,5,0,Winter,Local Event,112.66,34,23,4
+2024-06-25,90,Toys,7,Phoenix,13,464.47,24,0,6,0,Fall,Festival,179.7,29,48,3
+2024-06-26,75,Electronics,7,Los Angeles,22,175.21,6,0,6,1,Spring,None,150.13,25,73,1
+2024-06-27,99,Electronics,13,Phoenix,17,286.9,74,0,7,0,Summer,Festival,43.42,36,58,7
+2024-06-28,88,Groceries,18,Phoenix,19,395.98,99,1,4,0,Winter,Economic Change,160.83,37,45,9
+2024-06-29,97,Toys,17,Chicago,18,135.6,43,0,9,0,Fall,Economic Change,294.46,10,56,1
+2024-06-30,84,Electronics,6,New York,15,489.73,52,0,9,1,Summer,Economic Change,20.78,37,28,12
+2024-07-01,27,Electronics,1,Chicago,21,81.31,90,0,5,1,Winter,None,100.3,42,76,5
+2024-07-02,79,Groceries,11,Chicago,21,273.11,45,1,2,0,Spring,None,123.2,38,30,11
+2024-07-03,33,Electronics,18,Phoenix,16,328.24,79,0,9,0,Fall,Local Event,182.99,18,56,9
+2024-07-04,71,Electronics,13,New York,17,138.43,18,1,5,0,Spring,Economic Change,214.51,21,59,10
+2024-07-05,98,Groceries,5,Phoenix,19,341.61,3,0,7,1,Summer,Local Event,182.81,17,48,7
+2024-07-06,45,Electronics,11,Houston,23,151.76,92,1,3,0,Winter,Local Event,234.38,27,69,12
+2024-07-07,60,Electronics,2,Phoenix,31,139.78,63,0,9,0,Spring,Festival,112.14,44,53,12
+2024-07-08,58,Groceries,10,Phoenix,18,258.39,58,0,8,0,Fall,Festival,269.3,17,63,1
+2024-07-09,51,Electronics,17,New York,25,456.8,63,0,1,0,Winter,Festival,224.84,34,48,9
+2024-07-10,46,Groceries,14,Phoenix,18,422.17,39,1,2,1,Winter,None,254.25,22,85,8
+2024-07-11,5,Electronics,10,Phoenix,27,262.22,94,0,1,1,Winter,None,299.85,26,66,13
+2024-07-12,58,Toys,13,Chicago,16,467.05,5,0,2,0,Spring,Economic Change,59.62,33,50,13
+2024-07-13,94,Toys,13,Phoenix,19,251.14,47,0,8,1,Summer,Economic Change,280.1,31,98,2
+2024-07-14,92,Electronics,12,New York,18,371.5,22,0,3,0,Winter,Economic Change,94.96,21,85,3
+2024-07-15,18,Toys,17,Chicago,18,268.86,51,0,5,0,Winter,None,237.32,41,52,13
+2024-07-16,36,Toys,19,Los Angeles,17,294.95,49,0,1,1,Spring,Festival,228.72,23,30,4
+2024-07-17,67,Toys,6,Los Angeles,19,419.76,73,0,5,0,Winter,Economic Change,258.89,37,33,3
+2024-07-18,21,Groceries,15,Phoenix,16,369.51,12,0,2,0,Fall,Festival,228.92,46,30,7
+2024-07-19,46,Toys,5,Chicago,17,237.89,32,0,1,0,Fall,Local Event,294.51,24,80,13
+2024-07-20,58,Clothing,19,Houston,14,418.23,79,0,3,0,Fall,Festival,125.3,12,81,6
+2024-07-21,80,Groceries,5,Los Angeles,19,389.2,32,0,1,0,Winter,Economic Change,289.44,20,41,11
+2024-07-22,37,Clothing,19,Chicago,21,412.32,35,0,9,0,Fall,Festival,60.61,46,68,3
+2024-07-23,63,Toys,16,Los Angeles,18,180.72,60,0,9,0,Fall,Local Event,141.43,32,96,3
+2024-07-24,5,Toys,1,Chicago,29,403.69,62,0,8,1,Summer,Local Event,41.39,18,55,10
+2024-07-25,78,Clothing,18,Phoenix,21,239.16,92,1,6,0,Winter,None,255.04,49,36,11
+2024-07-26,31,Electronics,6,Chicago,20,273.13,90,0,1,0,Summer,Festival,292.83,39,29,4
+2024-07-27,88,Toys,12,Chicago,23,183.86,99,0,4,1,Fall,Festival,35.25,38,32,12
+2024-07-28,99,Groceries,13,New York,18,166.78,82,0,6,1,Winter,Economic Change,197.29,29,34,4
+2024-07-29,36,Clothing,6,Phoenix,14,69.55,44,0,3,0,Winter,Festival,82.79,30,64,13
+2024-07-30,74,Clothing,9,Houston,14,253.67,51,0,2,1,Summer,Local Event,170.55,38,33,10
+2024-07-31,91,Toys,15,Los Angeles,18,74.06,56,1,3,1,Spring,Local Event,159.14,15,30,7
+2024-08-01,56,Clothing,17,Chicago,21,383.24,92,0,9,0,Fall,Local Event,170.36,35,46,1
+2024-08-02,27,Clothing,17,Chicago,14,339.47,8,0,7,1,Fall,Economic Change,64.4,22,82,6
+2024-08-03,23,Groceries,11,Phoenix,16,185.23,49,0,3,1,Spring,Economic Change,140.77,31,20,2
+2024-08-04,77,Electronics,6,New York,22,83.39,48,0,6,1,Winter,Local Event,209.65,42,91,11
+2024-08-05,80,Electronics,16,Los Angeles,15,147.4,55,1,8,0,Summer,Local Event,132.62,13,65,5
+2024-08-06,99,Clothing,4,Houston,25,69.41,22,1,9,0,Fall,Festival,195.54,37,71,12
+2024-08-07,91,Electronics,7,Chicago,21,457.34,62,0,4,1,Spring,Economic Change,160.92,39,72,9
+2024-08-08,52,Clothing,17,New York,22,236.53,95,0,7,1,Fall,Economic Change,197.45,19,89,2
+2024-08-09,47,Electronics,19,Los Angeles,30,318.49,57,0,9,0,Fall,Local Event,140.78,43,31,9
+2024-08-10,81,Electronics,17,Los Angeles,21,198.01,85,0,9,1,Spring,None,295.81,17,85,7
+2024-08-11,62,Groceries,11,Houston,20,286.2,34,1,5,0,Spring,None,219.01,13,70,7
+2024-08-12,61,Clothing,16,Phoenix,21,296.6,55,0,8,0,Spring,None,220.62,37,49,11
+2024-08-13,48,Groceries,2,Los Angeles,17,373.97,41,0,9,0,Fall,Economic Change,40.3,11,81,12
+2024-08-14,1,Toys,11,Los Angeles,17,268.35,64,0,5,0,Spring,Economic Change,213.03,32,28,13
+2024-08-15,11,Electronics,13,Houston,17,183.44,43,1,8,0,Winter,Local Event,27.45,40,47,8
+2024-08-16,76,Toys,3,Chicago,21,197.36,11,0,7,0,Spring,Economic Change,275.63,36,52,13
+2024-08-17,14,Clothing,19,Phoenix,24,467.14,8,0,3,0,Winter,None,138.99,11,65,1
+2024-08-18,72,Clothing,8,Houston,13,399.81,23,0,2,0,Fall,None,286.27,37,66,8
+2024-08-19,95,Clothing,8,Chicago,22,198.07,56,0,2,1,Fall,Festival,252.22,46,73,8
+2024-08-20,7,Toys,2,Houston,22,350.92,85,1,8,1,Fall,Local Event,230.64,19,94,5
+2024-08-21,46,Toys,13,Houston,17,396.19,56,0,2,0,Spring,Festival,143.75,18,72,1
+2024-08-22,31,Clothing,13,Houston,17,132.75,55,0,3,0,Summer,Festival,158.87,41,67,10
+2024-08-23,16,Clothing,8,New York,23,366.03,93,0,2,1,Spring,None,283.29,39,88,10
+2024-08-24,42,Toys,13,Houston,22,313.22,8,0,2,0,Spring,None,141.81,33,30,6
+2024-08-25,39,Clothing,17,Chicago,27,287.57,21,0,9,0,Fall,Festival,68.83,20,63,2
+2024-08-26,54,Electronics,17,Chicago,27,235.89,76,0,9,1,Spring,Economic Change,103.24,31,20,3
+2024-08-27,44,Clothing,7,Los Angeles,12,496.6,43,0,2,0,Summer,Festival,175.32,12,73,7
+2024-08-28,83,Electronics,5,New York,16,412.3,9,0,6,0,Fall,None,202.43,12,45,7
+2024-08-29,8,Groceries,14,Chicago,22,96.72,75,0,6,0,Spring,None,160.69,23,24,12
+2024-08-30,93,Toys,13,New York,17,198.85,33,0,1,1,Spring,Festival,15.02,36,26,3
+2024-08-31,66,Electronics,2,Los Angeles,22,289.54,45,0,5,0,Fall,Economic Change,158.43,27,46,6
+2024-09-01,42,Toys,19,New York,16,404.68,51,0,5,0,Summer,Festival,135.58,44,25,11
+2024-09-02,67,Toys,7,Chicago,22,369.21,88,0,7,0,Summer,None,86.22,22,68,10
+2024-09-03,93,Groceries,3,Phoenix,22,198.88,71,0,9,0,Fall,Economic Change,266.28,40,72,9
+2024-09-04,79,Clothing,15,New York,22,447.13,85,0,1,1,Summer,Festival,245.57,15,62,3
+2024-09-05,92,Electronics,14,New York,20,293.11,29,0,4,0,Winter,Local Event,99.94,24,78,2
+2024-09-06,32,Electronics,6,Phoenix,25,435.14,87,0,4,0,Winter,Local Event,23.12,31,36,12
+2024-09-07,94,Electronics,14,Houston,21,450.36,66,0,4,0,Summer,Festival,251.03,39,78,4
+2024-09-08,51,Groceries,12,Phoenix,19,330.75,42,0,4,1,Fall,Economic Change,213.73,23,38,13
+2024-09-09,47,Clothing,6,Houston,20,115.32,37,0,2,0,Summer,Local Event,184.61,39,83,11
+2024-09-10,94,Toys,18,Phoenix,21,323.39,70,0,6,0,Fall,None,230.63,13,82,13
+2024-09-11,34,Toys,13,New York,21,58.08,20,1,4,1,Winter,Festival,228.47,46,29,7
+2024-09-12,13,Electronics,7,Houston,18,336.13,49,0,3,1,Fall,Economic Change,201.47,33,61,1
+2024-09-13,97,Toys,16,Houston,18,140.13,38,0,3,0,Fall,Local Event,215.53,35,22,4
+2024-09-14,81,Groceries,10,Phoenix,16,436.97,85,0,8,0,Fall,Economic Change,207.03,49,92,5
+2024-09-15,67,Electronics,11,New York,23,88.88,41,0,2,0,Fall,Festival,136.19,42,41,9
+2024-09-16,73,Electronics,9,New York,20,181.74,81,0,3,0,Summer,Economic Change,150.65,48,47,2
+2024-09-17,11,Electronics,17,New York,18,51.28,32,0,5,1,Summer,Local Event,209.46,11,59,3
+2024-09-18,91,Electronics,6,Houston,22,460.93,47,0,1,1,Spring,None,222.38,26,64,9
+2024-09-19,28,Groceries,7,Houston,27,441.83,82,0,6,0,Winter,None,254.84,24,27,13
+2024-09-20,57,Toys,17,Houston,18,155.46,27,0,7,0,Winter,Festival,138.55,14,82,9
+2024-09-21,66,Clothing,7,New York,20,104.07,75,0,5,0,Winter,Economic Change,34.61,42,87,9
+2024-09-22,65,Clothing,17,Los Angeles,20,290.37,85,0,7,0,Fall,Festival,253.32,18,55,4
+2024-09-23,70,Electronics,7,Los Angeles,19,284.99,72,0,7,0,Winter,Economic Change,299.52,32,44,10
+2024-09-24,89,Groceries,2,Houston,13,259.29,62,0,7,1,Summer,Local Event,148.78,15,37,7
+2024-09-25,35,Clothing,16,Houston,25,278.57,87,1,7,0,Summer,Economic Change,165.09,10,61,3
+2024-09-26,80,Clothing,2,New York,14,321.39,40,0,2,1,Fall,Festival,265.07,31,45,10
+2024-09-27,4,Toys,15,New York,28,477.42,83,0,3,0,Winter,Festival,286.6,23,36,10
+2024-09-28,61,Electronics,1,Los Angeles,17,458.89,20,0,9,0,Winter,Festival,83.59,45,31,4
+2024-09-29,38,Toys,5,Los Angeles,26,366.31,91,1,7,1,Fall,Festival,46.93,45,72,3
+2024-09-30,44,Toys,8,Phoenix,13,455.91,6,1,4,1,Summer,None,66.24,42,20,10
+2024-10-01,84,Electronics,3,New York,19,342.21,41,0,8,0,Spring,Festival,98.29,33,70,9
+2024-10-02,89,Groceries,18,Chicago,13,381.07,92,1,1,1,Summer,Economic Change,259.97,32,97,8
+2024-10-03,71,Toys,15,Phoenix,21,326.48,75,0,6,0,Fall,Festival,224.26,38,68,7
+2024-10-04,21,Clothing,5,New York,27,218.65,6,0,3,1,Summer,None,181.44,22,22,5
+2024-10-05,7,Electronics,10,Chicago,14,243.5,80,1,6,1,Summer,None,220.24,20,55,13
+2024-10-06,29,Groceries,9,Chicago,13,306.54,31,0,8,0,Fall,Economic Change,244.01,49,85,3
+2024-10-07,7,Groceries,17,Houston,20,160.06,45,1,6,1,Summer,Festival,157.96,29,20,13
+2024-10-08,67,Groceries,8,Houston,14,84.65,71,1,1,0,Winter,Economic Change,29.43,21,65,1
+2024-10-09,93,Clothing,12,Chicago,24,363.44,36,0,1,0,Spring,Economic Change,255.97,43,41,5
+2024-10-10,93,Toys,11,Chicago,24,269.54,25,0,3,0,Fall,Festival,138.78,31,30,12
+2024-10-11,70,Toys,14,Phoenix,21,157.37,29,0,3,0,Summer,Economic Change,184.32,38,90,11
+2024-10-12,74,Clothing,16,Chicago,13,247.7,46,0,6,0,Summer,Economic Change,78.79,32,72,11
+2024-10-13,55,Clothing,10,Houston,22,64.52,69,0,7,0,Summer,Local Event,224.69,41,63,5
+2024-10-14,78,Groceries,6,Houston,26,264.25,57,1,5,0,Fall,Festival,256.01,16,89,7
+2024-10-15,22,Groceries,3,Houston,29,335.92,63,0,8,0,Summer,Economic Change,16.33,15,99,12
+2024-10-16,32,Toys,7,Los Angeles,22,342.05,72,0,3,1,Summer,None,252.18,36,54,6
+2024-10-17,82,Electronics,10,Phoenix,18,144.95,68,1,8,0,Spring,None,206.21,39,29,4
+2024-10-18,36,Toys,14,Phoenix,22,216.57,33,0,3,0,Winter,Local Event,194.88,29,48,13
+2024-10-19,9,Toys,6,Phoenix,27,267.61,37,0,5,0,Fall,Economic Change,188.14,31,61,3
+2024-10-20,26,Toys,7,Los Angeles,15,480.49,1,1,9,0,Summer,Economic Change,109.88,23,23,2
+2024-10-21,22,Toys,4,Phoenix,17,216.89,23,0,6,1,Fall,Economic Change,141.94,41,22,11
+2024-10-22,46,Electronics,12,Los Angeles,20,255.05,49,1,8,1,Fall,Economic Change,251.78,24,90,7
+2024-10-23,87,Clothing,11,Los Angeles,18,498.29,12,0,7,0,Fall,Festival,88.64,21,25,5
+2024-10-24,17,Toys,12,Chicago,26,90.49,1,0,7,0,Winter,Local Event,209.78,18,75,2
+2024-10-25,26,Clothing,15,Los Angeles,23,51.53,71,0,1,0,Summer,None,118.17,47,65,2
+2024-10-26,38,Electronics,12,New York,15,143.55,92,0,2,0,Fall,Economic Change,270.87,30,86,1
+2024-10-27,2,Clothing,17,New York,22,88.41,8,1,3,0,Winter,None,48.76,27,98,3
+2024-10-28,6,Electronics,4,Phoenix,31,451.55,46,0,1,0,Fall,None,13.17,28,26,5
+2024-10-29,71,Electronics,18,New York,26,275.08,36,1,9,0,Fall,None,68.3,43,88,4
+2024-10-30,13,Toys,17,Chicago,19,407.34,48,0,9,0,Fall,None,284.92,26,33,7
+2024-10-31,91,Electronics,11,New York,17,462.22,56,0,3,1,Winter,Festival,164.0,38,38,4
+2024-11-01,75,Groceries,10,Los Angeles,20,479.8,41,0,7,0,Fall,Economic Change,207.44,29,54,4
+2024-11-02,55,Clothing,4,New York,20,190.57,88,0,9,0,Winter,Local Event,11.14,41,72,8
+2024-11-03,79,Toys,16,Houston,21,160.54,64,0,1,1,Summer,Festival,207.34,40,63,5
+2024-11-04,63,Groceries,5,Chicago,14,318.63,98,0,5,0,Summer,None,204.41,11,63,12
+2024-11-05,73,Clothing,7,Phoenix,30,301.18,45,0,3,0,Fall,Local Event,63.94,28,49,6
+2024-11-06,72,Groceries,8,Houston,21,454.8,45,0,1,1,Summer,None,65.44,45,80,8
+2024-11-07,46,Toys,18,Chicago,17,249.88,15,0,4,0,Summer,None,225.34,34,25,11
+2024-11-08,6,Clothing,13,Chicago,23,496.05,39,0,8,0,Winter,Economic Change,90.38,27,47,6
+2024-11-09,48,Clothing,7,Chicago,22,386.2,2,1,5,1,Summer,None,86.62,33,58,3
+2024-11-10,60,Electronics,12,New York,31,441.13,42,0,5,0,Spring,Festival,33.05,17,58,8
+2024-11-11,43,Groceries,12,New York,21,318.56,11,0,4,0,Fall,None,249.86,24,41,3
+2024-11-12,68,Groceries,15,Houston,24,381.27,68,0,2,0,Spring,Festival,193.44,22,81,10
+2024-11-13,11,Clothing,12,Houston,26,441.53,95,0,1,0,Winter,Festival,15.89,19,47,7
+2024-11-14,58,Groceries,7,Los Angeles,25,406.01,70,0,7,0,Summer,Local Event,27.17,30,46,1
+2024-11-15,92,Clothing,14,Los Angeles,16,296.01,60,0,2,1,Summer,Festival,108.19,16,47,9
+2024-11-16,90,Clothing,14,Los Angeles,21,463.5,66,0,2,0,Fall,Local Event,98.78,26,48,13
+2024-11-17,4,Electronics,18,Chicago,14,141.94,57,0,9,1,Winter,Economic Change,263.68,29,42,5
+2024-11-18,79,Clothing,9,Phoenix,15,158.65,74,0,3,0,Fall,None,175.14,43,90,1
+2024-11-19,83,Groceries,5,Los Angeles,17,339.21,42,1,2,0,Spring,None,37.15,25,98,10
+2024-11-20,70,Toys,19,Houston,23,439.61,45,0,3,0,Winter,Local Event,37.36,27,28,4
+2024-11-21,59,Electronics,17,Phoenix,22,113.69,81,0,6,0,Summer,Festival,196.04,44,59,3
+2024-11-22,5,Toys,3,Los Angeles,18,313.23,76,0,8,0,Winter,Local Event,118.89,39,74,5
+2024-11-23,18,Clothing,9,New York,22,436.82,17,0,3,1,Fall,Economic Change,282.82,33,73,8
+2024-11-24,70,Electronics,12,Los Angeles,20,252.24,47,1,6,0,Fall,Economic Change,56.31,45,98,8
+2024-11-25,64,Electronics,16,Los Angeles,22,204.44,53,0,5,1,Spring,Festival,256.66,22,30,7
+2024-11-26,95,Clothing,16,Chicago,17,445.59,7,0,9,1,Spring,Economic Change,62.8,17,55,3
+2024-11-27,25,Groceries,14,Chicago,20,470.43,75,0,6,0,Spring,Economic Change,100.19,33,39,10
+2024-11-28,4,Clothing,15,Los Angeles,28,342.42,26,0,4,0,Summer,Local Event,215.83,30,53,9
+2024-11-29,70,Clothing,15,Chicago,24,447.09,22,1,5,0,Summer,Festival,12.64,13,35,13
+2024-11-30,41,Clothing,19,New York,19,195.91,91,0,5,1,Winter,None,177.0,48,73,3
+2024-12-01,37,Clothing,15,Phoenix,21,310.11,76,0,4,1,Spring,Local Event,62.08,15,90,9
+2024-12-02,59,Clothing,14,Phoenix,24,380.86,71,0,2,0,Winter,None,253.35,10,64,4
+2024-12-03,50,Groceries,2,Chicago,17,223.72,82,0,6,0,Spring,Local Event,192.21,35,36,12
+2024-12-04,56,Electronics,5,Los Angeles,17,279.99,63,0,7,1,Summer,Festival,194.49,45,37,13
+2024-12-05,25,Groceries,11,New York,20,499.92,81,0,9,1,Spring,Economic Change,140.75,21,78,4
+2024-12-06,34,Clothing,19,New York,24,170.19,54,0,7,1,Winter,Local Event,155.58,23,44,1
+2024-12-07,19,Electronics,5,Houston,29,144.92,7,0,6,1,Fall,Economic Change,291.48,24,51,2
+2024-12-08,98,Electronics,9,Chicago,23,131.15,54,0,5,1,Winter,Local Event,216.26,45,34,10
+2024-12-09,79,Electronics,10,Houston,21,155.72,71,0,8,0,Spring,Festival,184.76,34,94,13
+2024-12-10,8,Toys,15,Chicago,14,168.32,8,1,1,0,Summer,Economic Change,245.89,46,48,9
+2024-12-11,54,Groceries,14,Houston,16,243.2,84,1,5,0,Spring,None,221.41,33,27,11
+2024-12-12,47,Groceries,13,Los Angeles,20,390.65,49,0,4,0,Summer,Festival,42.91,28,76,4
+2024-12-13,34,Groceries,15,Chicago,22,291.37,11,1,1,0,Summer,None,296.61,36,82,5
+2024-12-14,82,Clothing,9,Phoenix,14,432.88,88,0,3,0,Summer,Festival,43.81,31,59,12
+2024-12-15,30,Groceries,14,Chicago,14,51.6,50,0,6,0,Spring,Festival,231.62,23,49,10
+2024-12-16,13,Toys,10,Phoenix,23,473.06,26,0,4,1,Winter,Festival,258.48,11,32,9
+2024-12-17,47,Toys,15,Houston,21,126.73,13,0,1,0,Spring,Economic Change,160.71,44,96,1
+2024-12-18,33,Groceries,13,Houston,23,229.44,44,0,1,0,Winter,None,22.09,33,85,11
+2024-12-19,35,Toys,6,Los Angeles,21,426.56,12,0,4,0,Winter,Festival,224.23,32,37,9
+2024-12-20,88,Groceries,14,Phoenix,23,340.4,75,0,4,0,Fall,Local Event,69.48,23,53,6
+2024-12-21,26,Toys,12,Los Angeles,20,102.53,78,0,8,0,Summer,Economic Change,40.36,10,49,1
+2024-12-22,47,Electronics,13,New York,20,461.2,19,0,5,1,Winter,Festival,114.57,40,77,8
+2024-12-23,53,Electronics,10,Phoenix,23,433.05,34,0,8,0,Spring,None,244.6,28,53,11
+2024-12-24,65,Clothing,18,Chicago,17,238.9,18,0,9,0,Spring,None,223.04,17,92,12
+2024-12-25,77,Electronics,9,Phoenix,14,214.47,60,0,7,1,Fall,Economic Change,285.9,48,61,13
+2024-12-26,74,Clothing,16,Houston,20,379.79,65,0,1,0,Summer,None,97.66,35,76,5
+2024-12-27,19,Electronics,1,Los Angeles,25,305.37,31,0,1,0,Fall,Economic Change,269.95,20,38,3
+2024-12-28,5,Toys,13,New York,24,57.89,69,0,4,0,Winter,None,162.9,44,75,6
+2024-12-29,8,Clothing,17,Los Angeles,30,67.89,51,0,1,0,Winter,Local Event,97.67,36,92,6
+2024-12-30,4,Toys,19,New York,16,409.54,8,0,6,0,Winter,Local Event,287.83,36,71,1
+2024-12-31,49,Toys,13,Houston,22,233.94,32,1,4,1,Spring,None,36.54,17,37,2
+2025-01-01,77,Clothing,19,Los Angeles,13,109.01,6,0,6,0,Summer,Festival,191.63,40,39,9
+2025-01-02,38,Electronics,18,Chicago,24,451.85,33,0,5,0,Spring,Economic Change,14.24,25,86,10
+2025-01-03,49,Electronics,12,Chicago,26,376.24,0,0,5,0,Summer,Local Event,188.68,45,59,3
+2025-01-04,83,Toys,16,Los Angeles,16,218.23,3,0,8,1,Fall,None,222.56,30,79,9
+2025-01-05,52,Groceries,18,Los Angeles,24,110.67,63,0,6,0,Spring,None,265.55,42,39,4
+2025-01-06,50,Groceries,13,New York,28,72.62,41,0,3,0,Winter,Local Event,34.14,34,57,1
+2025-01-07,72,Clothing,9,Los Angeles,16,338.16,53,0,7,0,Fall,Local Event,34.59,44,72,1
+2025-01-08,91,Toys,8,New York,19,331.62,47,1,5,1,Spring,None,79.42,17,33,7
+2025-01-09,50,Clothing,12,Los Angeles,23,383.79,58,0,7,0,Winter,Local Event,25.05,42,47,10
+2025-01-10,30,Clothing,8,Los Angeles,21,341.5,69,1,9,0,Summer,Festival,196.72,34,37,11
+2025-01-11,4,Electronics,4,Phoenix,13,252.3,44,0,6,0,Spring,Economic Change,260.85,25,98,13
+2025-01-12,75,Electronics,10,New York,15,101.85,98,0,3,0,Summer,Economic Change,45.03,49,43,11
+2025-01-13,85,Toys,10,Houston,27,217.03,1,0,5,0,Fall,None,66.25,28,46,12
+2025-01-14,66,Groceries,12,Chicago,18,323.81,11,1,1,0,Fall,Festival,271.04,26,43,10
+2025-01-15,21,Electronics,18,New York,17,286.27,13,0,3,0,Fall,None,238.35,46,21,7
+2025-01-16,81,Clothing,19,Los Angeles,25,181.46,12,0,7,0,Summer,Economic Change,277.67,45,80,13
+2025-01-17,43,Groceries,17,Chicago,20,156.09,76,0,5,0,Summer,Economic Change,50.0,20,97,3
+2025-01-18,29,Electronics,1,Los Angeles,25,187.18,17,0,9,0,Spring,Festival,203.58,40,95,2
+2025-01-19,27,Clothing,8,Houston,18,79.5,59,0,8,0,Winter,None,106.99,48,34,2
+2025-01-20,88,Electronics,19,New York,28,358.86,41,0,1,1,Winter,Local Event,209.08,28,21,13
+2025-01-21,53,Electronics,12,New York,29,208.34,52,0,2,1,Summer,None,53.26,21,69,7
+2025-01-22,49,Electronics,13,Los Angeles,21,186.7,89,0,5,0,Winter,Economic Change,67.07,41,37,3
+2025-01-23,67,Clothing,14,Los Angeles,25,291.61,35,1,9,0,Winter,Local Event,69.1,30,62,13
+2025-01-24,10,Clothing,9,New York,18,327.72,26,0,1,0,Fall,Festival,162.92,24,29,6
+2025-01-25,3,Electronics,9,Los Angeles,34,54.45,55,0,9,1,Winter,None,120.23,49,36,11
+2025-01-26,90,Clothing,19,New York,19,363.67,62,0,1,1,Spring,Local Event,204.53,15,31,3
+2025-01-27,91,Electronics,18,Phoenix,18,362.78,98,0,2,0,Summer,None,182.83,32,95,13
+2025-01-28,69,Toys,11,Houston,16,248.45,53,1,1,1,Fall,Festival,22.41,22,58,11
+2025-01-29,11,Groceries,13,New York,16,311.35,72,0,8,0,Fall,Local Event,257.16,31,26,2
+2025-01-30,13,Clothing,3,Houston,19,276.75,42,0,8,1,Spring,None,259.1,28,89,1
+2025-01-31,98,Electronics,12,Houston,18,56.69,71,0,6,0,Fall,Local Event,245.96,11,76,8
+2025-02-01,38,Electronics,7,Phoenix,26,102.18,13,0,2,0,Summer,Local Event,253.38,48,48,13
+2025-02-02,40,Toys,15,New York,19,325.42,8,0,1,1,Winter,Local Event,18.36,33,93,13
+2025-02-03,33,Electronics,15,Los Angeles,23,176.42,26,0,9,0,Fall,Local Event,234.06,28,66,11
+2025-02-04,34,Groceries,19,Los Angeles,17,60.07,83,0,8,1,Summer,Economic Change,121.61,37,62,7
+2025-02-05,27,Clothing,12,New York,26,450.26,47,1,1,1,Fall,Festival,42.08,39,77,9
+2025-02-06,90,Toys,2,New York,21,462.19,57,1,5,0,Spring,Local Event,299.64,33,59,4
+2025-02-07,51,Electronics,15,Houston,11,309.82,30,0,1,0,Fall,Festival,200.89,14,56,8
+2025-02-08,89,Electronics,6,Houston,25,257.83,75,0,1,0,Winter,Local Event,246.06,30,29,4
+2025-02-09,83,Electronics,7,Chicago,20,113.21,54,0,5,0,Spring,None,58.46,21,24,2
+2025-02-10,21,Toys,16,Houston,21,468.7,56,0,3,0,Winter,Economic Change,82.21,15,33,13
+2025-02-11,95,Clothing,13,New York,17,361.76,49,1,5,0,Summer,Local Event,127.94,12,52,13
+2025-02-12,29,Groceries,10,Chicago,21,220.2,99,0,2,0,Summer,Festival,155.7,31,87,4
+2025-02-13,73,Groceries,4,Houston,20,165.06,19,0,7,0,Spring,Local Event,137.52,29,67,9
+2025-02-14,19,Electronics,10,Los Angeles,21,218.7,22,1,4,0,Spring,Festival,85.97,39,44,13
+2025-02-15,26,Electronics,3,Houston,17,466.87,19,0,9,0,Winter,Festival,13.05,42,92,8
+2025-02-16,25,Clothing,2,Houston,21,147.44,47,0,4,0,Winter,None,21.48,27,24,4
+2025-02-17,40,Electronics,7,Houston,18,151.19,50,0,2,0,Summer,Festival,201.92,24,27,7
+2025-02-18,29,Groceries,15,Houston,14,238.44,98,0,5,0,Summer,None,207.49,43,39,1
+2025-02-19,25,Clothing,17,Phoenix,18,219.74,73,1,6,0,Summer,None,163.93,31,95,8
+2025-02-20,19,Toys,19,New York,22,249.71,43,0,4,0,Summer,Festival,55.34,20,24,3
+2025-02-21,68,Toys,14,Chicago,16,321.44,18,0,3,1,Fall,None,125.63,29,87,10
+2025-02-22,45,Clothing,15,New York,17,452.12,52,1,3,0,Fall,Festival,274.52,26,73,5
+2025-02-23,84,Electronics,4,Houston,17,472.42,5,0,9,1,Fall,Local Event,157.63,38,86,1
+2025-02-24,46,Groceries,6,Los Angeles,27,473.22,26,0,6,1,Winter,Local Event,168.53,48,29,4
+2025-02-25,55,Clothing,14,Chicago,22,52.49,15,0,8,0,Winter,Economic Change,278.97,26,48,8
+2025-02-26,1,Clothing,11,New York,18,435.35,31,0,5,0,Summer,Economic Change,291.28,12,55,8
+2025-02-27,11,Electronics,19,Los Angeles,15,311.85,11,0,8,0,Winter,Festival,208.76,22,88,1
+2025-02-28,68,Groceries,7,Houston,17,230.54,2,1,3,0,Summer,None,143.8,12,40,13
+2025-03-01,7,Groceries,11,Los Angeles,19,338.73,55,0,1,0,Winter,Economic Change,93.05,26,67,7
+2025-03-02,92,Toys,12,New York,25,306.25,42,0,4,1,Fall,Local Event,115.41,47,49,13
+2025-03-03,58,Toys,2,Chicago,18,142.18,78,0,6,0,Summer,Local Event,119.44,31,56,12
+2025-03-04,71,Clothing,10,New York,21,88.12,12,0,8,0,Summer,Economic Change,113.07,48,79,3
+2025-03-05,20,Groceries,17,Los Angeles,17,136.51,74,0,4,0,Winter,Economic Change,188.95,49,56,12
+2025-03-06,35,Electronics,16,Los Angeles,23,152.36,71,0,6,0,Fall,Economic Change,82.54,19,29,10
+2025-03-07,51,Electronics,18,New York,27,315.51,22,0,7,0,Fall,Local Event,86.1,35,98,13
+2025-03-08,21,Clothing,2,New York,14,177.18,55,0,3,0,Summer,Economic Change,123.39,24,71,6
+2025-03-09,44,Clothing,5,New York,15,286.8,79,0,5,0,Spring,None,87.18,23,24,6
+2025-03-10,1,Groceries,4,Los Angeles,18,253.14,52,0,7,0,Winter,None,270.11,19,99,7
+2025-03-11,67,Electronics,10,Phoenix,20,292.78,67,0,7,0,Spring,Economic Change,18.94,36,29,2
+2025-03-12,98,Toys,10,New York,21,133.7,79,1,1,1,Spring,Local Event,199.59,29,73,5
+2025-03-13,13,Toys,14,Houston,19,434.92,96,0,2,0,Fall,Economic Change,247.85,17,39,5
+2025-03-14,16,Toys,7,Los Angeles,27,381.14,2,0,9,0,Fall,Economic Change,126.44,23,57,8
+2025-03-15,34,Groceries,11,Phoenix,21,84.73,25,0,4,1,Summer,Economic Change,59.08,23,37,6
+2025-03-16,24,Groceries,12,Chicago,22,450.68,59,0,4,1,Winter,Local Event,71.92,36,30,4
+2025-03-17,13,Clothing,6,Phoenix,17,205.49,6,0,6,0,Summer,None,234.37,12,79,2
+2025-03-18,6,Electronics,6,Chicago,28,486.6,13,0,2,0,Summer,Local Event,115.64,22,34,12
+2025-03-19,39,Toys,9,Phoenix,24,394.53,76,1,6,0,Fall,Festival,219.27,20,80,5
+2025-03-20,2,Electronics,16,Los Angeles,19,296.35,94,0,9,0,Summer,Festival,281.9,11,68,12
+2025-03-21,11,Groceries,15,Houston,24,421.52,89,0,5,0,Fall,Festival,162.43,17,47,7
+2025-03-22,7,Electronics,1,Los Angeles,30,455.15,46,0,6,0,Fall,Economic Change,10.49,23,25,8
+2025-03-23,7,Toys,4,Phoenix,15,147.5,1,0,4,0,Fall,None,105.78,30,65,9
+2025-03-24,39,Electronics,2,Phoenix,14,283.85,55,0,7,0,Winter,Festival,197.22,23,24,3
+2025-03-25,76,Toys,15,Chicago,19,271.44,79,0,7,0,Fall,None,17.25,43,60,11
+2025-03-26,86,Groceries,7,New York,16,408.56,51,0,6,0,Summer,Festival,298.92,33,89,3
+2025-03-27,51,Clothing,4,Los Angeles,21,480.75,72,0,7,0,Winter,Festival,204.67,38,29,11
+2025-03-28,52,Toys,5,Chicago,21,276.07,91,0,5,1,Summer,None,120.95,45,53,1
+2025-03-29,3,Clothing,6,Phoenix,16,302.21,64,0,8,1,Summer,Festival,161.68,45,60,11
+2025-03-30,77,Toys,9,Phoenix,20,240.45,43,1,2,0,Fall,Economic Change,291.45,36,63,9
+2025-03-31,30,Clothing,19,New York,24,274.18,36,0,8,0,Spring,None,218.57,25,72,10
+2025-04-01,10,Groceries,10,Los Angeles,33,290.05,59,0,3,0,Winter,None,240.15,35,99,5
+2025-04-02,73,Electronics,4,Phoenix,15,391.16,92,0,1,1,Spring,Economic Change,112.19,42,27,11
+2025-04-03,6,Toys,3,Houston,23,492.96,42,0,5,0,Winter,Economic Change,84.99,38,65,7
+2025-04-04,54,Toys,10,New York,24,421.57,43,0,2,0,Winter,Economic Change,209.15,19,58,3
+2025-04-05,66,Toys,14,New York,21,478.02,83,0,6,0,Fall,None,167.2,11,68,7
+2025-04-06,44,Groceries,18,Chicago,19,115.98,34,1,7,0,Fall,Economic Change,236.75,27,44,2
+2025-04-07,80,Toys,18,Chicago,16,124.97,69,0,4,0,Spring,Festival,210.66,46,89,9
+2025-04-08,63,Groceries,11,Chicago,24,228.58,98,1,1,0,Winter,Economic Change,67.45,41,96,12
+2025-04-09,77,Clothing,9,Phoenix,21,240.6,34,0,6,0,Winter,None,197.65,49,32,2
+2025-04-10,48,Electronics,14,New York,24,481.95,65,0,2,0,Winter,Festival,225.02,18,55,12
+2025-04-11,77,Clothing,11,Los Angeles,16,393.66,96,0,1,1,Spring,None,141.83,21,25,8
+2025-04-12,22,Electronics,7,Houston,24,478.31,0,0,6,0,Summer,None,248.25,21,58,11
+2025-04-13,19,Electronics,11,Phoenix,19,204.09,63,0,5,0,Fall,Local Event,168.73,27,72,12
+2025-04-14,90,Clothing,4,Phoenix,18,315.71,2,1,3,1,Winter,Festival,280.47,47,75,3
+2025-04-15,14,Toys,16,Los Angeles,22,447.21,69,0,2,0,Summer,Economic Change,254.99,15,85,5
+2025-04-16,95,Toys,19,Phoenix,15,199.38,57,0,2,0,Fall,Festival,192.92,11,71,5
+2025-04-17,93,Clothing,3,Los Angeles,24,128.12,76,0,8,1,Summer,None,137.98,24,32,7
+2025-04-18,86,Groceries,5,Los Angeles,19,168.18,1,0,7,0,Winter,Economic Change,233.01,18,28,9
+2025-04-19,7,Electronics,11,New York,16,169.36,7,0,5,0,Winter,None,103.96,12,87,6
+2025-04-20,49,Electronics,8,Phoenix,29,454.85,39,0,5,1,Summer,None,84.34,26,81,6
+2025-04-21,41,Electronics,19,Phoenix,22,401.81,34,0,8,1,Summer,Festival,46.07,29,56,13
+2025-04-22,27,Electronics,13,Houston,18,297.09,95,0,8,0,Spring,Economic Change,74.71,31,33,3
+2025-04-23,31,Electronics,12,Los Angeles,28,295.89,88,1,1,0,Spring,Local Event,144.74,41,91,1
+2025-04-24,6,Toys,13,Houston,25,122.77,78,0,9,1,Winter,Economic Change,268.3,19,59,1
+2025-04-25,16,Groceries,18,Houston,20,198.99,56,1,8,1,Winter,Festival,147.49,16,73,10
+2025-04-26,64,Electronics,6,Houston,21,143.65,51,1,1,0,Fall,Local Event,69.27,42,56,12
+2025-04-27,38,Groceries,8,Chicago,16,237.95,95,1,3,0,Spring,Festival,95.15,11,66,13
+2025-04-28,60,Clothing,5,New York,15,306.13,21,1,9,0,Spring,Economic Change,240.66,39,92,3
+2025-04-29,96,Groceries,11,Los Angeles,16,125.61,83,0,4,1,Winter,Economic Change,226.67,38,94,7
+2025-04-30,97,Toys,19,Phoenix,23,418.47,31,0,7,0,Summer,None,285.74,40,25,11
+2025-05-01,81,Groceries,1,Chicago,18,263.9,87,1,8,0,Spring,None,12.2,16,59,1
+2025-05-02,33,Groceries,12,Chicago,21,145.16,48,0,6,0,Summer,Festival,66.6,43,22,4
+2025-05-03,63,Clothing,10,Chicago,23,330.27,49,0,4,0,Spring,None,260.41,48,39,9
+2025-05-04,11,Electronics,19,Phoenix,23,64.78,60,0,9,1,Fall,Local Event,247.18,10,77,13
+2025-05-05,13,Groceries,14,Chicago,18,255.9,61,0,5,0,Spring,None,61.34,30,23,3
+2025-05-06,94,Toys,19,Chicago,23,78.8,99,0,5,1,Spring,Economic Change,265.58,43,75,10
+2025-05-07,65,Clothing,13,Phoenix,16,365.97,50,0,4,0,Summer,Economic Change,77.28,11,94,11
+2025-05-08,30,Groceries,10,New York,23,291.3,32,0,8,0,Summer,None,32.17,48,21,9
+2025-05-09,91,Groceries,9,Chicago,19,326.54,64,0,3,0,Spring,Local Event,219.71,28,39,13
+2025-05-10,23,Clothing,2,Los Angeles,17,87.55,20,0,5,1,Summer,Economic Change,24.89,25,48,12
+2025-05-11,20,Toys,18,New York,20,151.61,72,0,2,1,Summer,None,259.02,28,49,9
+2025-05-12,6,Toys,18,Phoenix,25,238.03,43,0,4,1,Fall,Festival,236.89,43,42,4
+2025-05-13,37,Toys,16,New York,23,425.52,69,0,4,0,Fall,None,20.28,12,27,7
+2025-05-14,84,Groceries,17,New York,26,285.91,40,0,4,0,Summer,Festival,296.74,48,28,3
+2025-05-15,6,Groceries,18,Houston,16,241.89,25,0,3,0,Winter,None,173.08,11,61,9
+2025-05-16,93,Toys,8,Phoenix,26,201.13,70,1,3,0,Summer,Festival,31.38,37,42,10
+2025-05-17,77,Electronics,17,New York,13,154.23,18,0,2,1,Winter,None,293.16,25,92,13
+2025-05-18,27,Toys,6,Phoenix,18,71.15,87,0,8,0,Winter,None,265.3,14,69,9
+2025-05-19,84,Clothing,10,Chicago,15,157.49,69,0,4,0,Fall,Economic Change,294.4,45,91,11
+2025-05-20,13,Groceries,15,Phoenix,18,178.93,74,1,4,1,Fall,Local Event,271.33,21,84,2
+2025-05-21,8,Clothing,13,New York,22,404.57,99,1,5,1,Winter,Economic Change,171.37,13,48,10
+2025-05-22,53,Clothing,15,Phoenix,21,410.21,53,0,6,1,Winter,None,269.97,21,89,2
+2025-05-23,81,Electronics,14,Houston,24,219.62,50,0,6,0,Winter,Festival,78.29,37,39,1
+2025-05-24,30,Electronics,2,Houston,18,61.3,20,0,6,0,Summer,Economic Change,265.06,40,27,1
+2025-05-25,1,Toys,5,Houston,17,262.01,64,0,7,0,Summer,Economic Change,127.36,40,80,6
+2025-05-26,88,Electronics,6,Phoenix,21,454.35,45,1,7,0,Spring,Economic Change,100.62,24,79,6
+2025-05-27,80,Groceries,13,New York,23,378.3,95,1,2,0,Spring,Festival,294.47,47,58,10
+2025-05-28,75,Groceries,10,Chicago,23,84.5,7,0,8,0,Fall,Economic Change,77.04,24,25,6
+2025-05-29,4,Groceries,13,Los Angeles,35,355.55,80,0,3,1,Fall,Economic Change,254.84,17,55,6
+2025-05-30,62,Groceries,1,Chicago,26,315.83,99,0,7,0,Spring,Local Event,107.14,36,30,3
+2025-05-31,68,Groceries,6,Houston,17,432.33,81,0,3,0,Fall,Festival,40.57,27,80,7
+2025-06-01,17,Toys,10,New York,24,262.37,62,0,1,0,Fall,None,19.6,42,93,1
+2025-06-02,74,Groceries,2,Phoenix,19,159.68,55,0,8,0,Summer,Local Event,212.53,38,56,7
+2025-06-03,85,Toys,18,Phoenix,27,435.82,80,0,1,0,Fall,Festival,34.96,48,78,10
+2025-06-04,57,Clothing,2,New York,18,394.23,20,1,3,0,Summer,None,153.7,41,41,1
+2025-06-05,63,Clothing,11,New York,24,346.2,35,0,9,0,Summer,None,121.72,43,36,11
+2025-06-06,57,Electronics,7,Houston,18,62.51,35,0,6,0,Summer,Festival,235.96,12,65,12
+2025-06-07,49,Groceries,17,Houston,25,233.91,23,0,4,0,Fall,None,139.18,22,26,4
+2025-06-08,18,Clothing,8,New York,13,112.69,88,0,4,1,Winter,Economic Change,205.82,14,73,1
+2025-06-09,58,Toys,7,Houston,27,257.75,57,0,5,0,Spring,Local Event,180.41,37,61,3
+2025-06-10,10,Toys,12,Los Angeles,22,456.49,10,0,5,0,Spring,Economic Change,68.01,28,45,13
+2025-06-11,63,Toys,10,Phoenix,28,130.67,21,0,7,1,Winter,Local Event,278.22,32,54,3
+2025-06-12,80,Electronics,19,Houston,18,235.89,84,0,6,1,Summer,Economic Change,44.52,41,87,10
+2025-06-13,79,Toys,11,Houston,29,199.28,91,0,8,1,Spring,Festival,145.64,38,42,6
+2025-06-14,34,Electronics,7,Houston,30,63.85,20,0,9,0,Winter,None,152.94,10,72,8
+2025-06-15,5,Toys,7,New York,19,123.13,84,0,8,0,Spring,None,160.87,20,44,3
+2025-06-16,17,Electronics,3,Los Angeles,19,247.02,82,0,1,0,Fall,Festival,205.96,19,69,6
+2025-06-17,72,Electronics,18,Houston,22,408.77,19,0,6,0,Spring,Economic Change,15.35,32,53,6
+2025-06-18,63,Clothing,11,Los Angeles,14,165.71,74,0,8,0,Fall,Festival,47.73,46,58,3
+2025-06-19,24,Clothing,8,Los Angeles,22,327.77,71,0,8,1,Summer,Economic Change,142.72,16,95,1
+2025-06-20,92,Toys,9,New York,22,227.44,42,0,3,0,Summer,Economic Change,82.66,26,82,8
+2025-06-21,8,Clothing,9,Houston,14,308.48,63,0,4,0,Summer,Festival,38.95,28,55,2
+2025-06-22,23,Electronics,5,Los Angeles,22,250.36,95,0,2,0,Summer,Local Event,179.72,46,77,10
+2025-06-23,99,Electronics,3,Houston,23,385.94,78,1,2,1,Winter,Local Event,189.75,17,27,4
+2025-06-24,31,Groceries,17,Houston,15,209.76,93,0,3,0,Winter,Festival,83.19,22,31,3
+2025-06-25,81,Groceries,12,Chicago,27,480.61,51,0,4,0,Winter,Festival,234.99,47,20,13
+2025-06-26,28,Electronics,4,Phoenix,18,278.18,31,0,9,0,Summer,Local Event,285.35,12,56,8
+2025-06-27,48,Clothing,1,Houston,11,129.71,33,0,2,0,Spring,None,31.95,15,25,9
+2025-06-28,12,Electronics,6,New York,21,349.28,94,1,9,0,Spring,None,270.98,43,29,7
+2025-06-29,88,Toys,8,Phoenix,18,225.06,33,0,7,1,Winter,Local Event,259.07,21,89,9
+2025-06-30,79,Groceries,13,New York,19,73.41,29,0,3,0,Summer,Economic Change,122.83,20,62,1
+2025-07-01,31,Groceries,12,New York,17,193.76,8,1,5,0,Winter,Festival,126.05,20,34,11
+2025-07-02,91,Clothing,13,New York,24,431.76,35,0,9,0,Summer,Local Event,184.98,45,58,6
+2025-07-03,35,Electronics,19,Chicago,17,267.51,6,0,8,0,Summer,None,222.91,22,53,1
+2025-07-04,55,Groceries,16,Phoenix,16,233.02,72,0,9,1,Summer,Festival,76.78,45,55,3
+2025-07-05,82,Clothing,13,New York,19,460.61,34,0,4,0,Summer,Local Event,85.77,21,28,13
+2025-07-06,36,Groceries,13,Chicago,17,332.78,74,0,9,0,Summer,None,197.43,37,22,10
+2025-07-07,72,Clothing,16,Phoenix,14,207.42,62,0,3,1,Spring,None,190.84,26,75,4
+2025-07-08,60,Groceries,18,New York,21,299.66,58,0,1,0,Fall,None,137.98,10,56,8
+2025-07-09,38,Toys,8,New York,19,240.7,50,0,6,0,Spring,Local Event,220.34,38,80,3
+2025-07-10,69,Groceries,16,Houston,19,194.86,24,0,1,0,Summer,Local Event,59.12,22,40,5
+2025-07-11,54,Electronics,2,Phoenix,20,322.49,61,1,7,1,Spring,Festival,278.4,47,39,2
+2025-07-12,14,Clothing,6,Los Angeles,23,491.21,25,0,5,0,Spring,Local Event,199.9,33,50,13
+2025-07-13,20,Clothing,1,New York,28,223.04,94,0,8,1,Spring,Local Event,73.45,48,93,13
+2025-07-14,9,Groceries,14,New York,16,73.24,73,1,4,0,Spring,Economic Change,257.11,44,40,4
+2025-07-15,97,Electronics,9,New York,24,211.76,52,1,2,0,Winter,Economic Change,74.25,11,53,1
+2025-07-16,82,Groceries,19,Houston,23,150.34,30,1,2,0,Spring,Festival,242.95,13,70,4
+2025-07-17,70,Groceries,17,Houston,22,203.19,43,1,6,0,Summer,None,263.58,22,55,4
+2025-07-18,2,Groceries,14,Houston,16,278.31,98,1,9,0,Winter,None,52.55,31,82,10
+2025-07-19,30,Toys,9,Phoenix,15,82.91,27,0,2,0,Fall,Festival,61.76,10,94,5
+2025-07-20,6,Clothing,7,Chicago,11,91.33,7,1,5,1,Summer,Local Event,160.35,29,95,11
+2025-07-21,81,Electronics,6,Phoenix,26,302.99,25,0,6,0,Fall,Festival,281.51,42,89,9
+2025-07-22,41,Toys,4,Chicago,20,441.07,80,0,6,1,Fall,Local Event,176.51,10,78,5
+2025-07-23,23,Toys,9,Los Angeles,21,259.43,52,0,3,1,Winter,Festival,165.67,28,95,3
+2025-07-24,31,Groceries,13,Phoenix,22,133.65,52,0,5,0,Fall,Festival,299.66,27,74,7
+2025-07-25,20,Groceries,14,New York,13,467.5,66,0,7,0,Fall,Economic Change,236.79,35,55,5
+2025-07-26,5,Groceries,17,Los Angeles,23,340.3,54,0,3,0,Winter,None,200.84,15,96,3
+2025-07-27,21,Clothing,19,New York,18,334.63,30,0,4,0,Fall,Festival,146.5,18,23,4
+2025-07-28,75,Groceries,11,Chicago,21,408.82,4,1,7,0,Fall,Economic Change,138.53,12,81,6
+2025-07-29,68,Toys,9,Houston,24,282.15,72,0,4,0,Fall,Festival,123.03,48,58,10
+2025-07-30,87,Clothing,17,Chicago,18,453.9,20,1,5,0,Winter,None,60.63,17,91,11
+2025-07-31,61,Toys,19,Phoenix,26,186.09,47,0,7,0,Summer,Festival,23.17,43,31,12
+2025-08-01,94,Clothing,11,Los Angeles,20,471.25,97,1,2,0,Winter,None,147.27,32,98,12
+2025-08-02,42,Clothing,16,Los Angeles,23,145.6,61,0,7,0,Winter,Local Event,240.97,19,31,11
+2025-08-03,41,Clothing,7,Los Angeles,21,122.41,70,0,9,0,Fall,Economic Change,181.27,47,21,13
+2025-08-04,61,Toys,5,Chicago,16,177.43,29,0,3,0,Spring,Local Event,65.5,29,32,8
+2025-08-05,82,Clothing,16,Phoenix,24,181.05,70,1,2,0,Fall,Economic Change,222.06,44,62,10
+2025-08-06,52,Toys,1,Houston,18,262.66,36,0,2,0,Spring,Festival,273.89,28,43,1
+2025-08-07,41,Electronics,4,Los Angeles,17,99.68,90,0,9,0,Summer,Economic Change,255.57,15,89,2
+2025-08-08,60,Toys,16,Houston,21,452.04,33,0,7,1,Spring,Economic Change,67.46,17,68,8
+2025-08-09,95,Toys,16,Los Angeles,22,480.81,84,0,3,0,Fall,None,132.44,28,57,10
+2025-08-10,30,Clothing,2,Los Angeles,25,107.85,79,0,5,1,Summer,None,76.69,19,32,3
+2025-08-11,98,Clothing,19,Chicago,23,336.45,56,0,1,0,Fall,Festival,138.29,26,71,8
+2025-08-12,95,Groceries,9,New York,22,335.25,11,0,9,0,Fall,None,294.35,11,44,6
+2025-08-13,38,Electronics,10,Los Angeles,17,180.01,15,0,9,0,Summer,Local Event,148.81,40,40,11
+2025-08-14,89,Electronics,9,New York,13,454.61,21,1,6,1,Winter,Economic Change,298.59,35,36,11
+2025-08-15,17,Groceries,8,Chicago,16,344.63,91,0,6,1,Winter,Festival,39.72,47,35,10
+2025-08-16,40,Toys,16,Los Angeles,19,164.25,43,0,8,0,Winter,Local Event,60.48,23,34,4
+2025-08-17,30,Toys,10,Phoenix,28,316.26,82,0,2,0,Fall,Festival,47.02,35,56,1
+2025-08-18,66,Clothing,4,Los Angeles,11,183.22,10,1,3,1,Summer,None,128.31,41,55,2
+2025-08-19,24,Electronics,15,Los Angeles,13,121.06,12,0,7,0,Fall,Festival,223.95,14,40,10
+2025-08-20,73,Clothing,3,Phoenix,16,206.41,48,0,7,1,Summer,Festival,253.69,44,74,1
+2025-08-21,1,Groceries,12,Phoenix,21,292.2,2,0,8,0,Winter,Local Event,160.0,18,30,10
+2025-08-22,88,Electronics,4,Los Angeles,19,341.9,75,0,3,0,Fall,Festival,258.23,10,91,9
+2025-08-23,38,Clothing,15,Houston,18,425.33,6,0,3,0,Fall,Festival,287.17,21,81,13
+2025-08-24,64,Electronics,1,Chicago,28,352.43,97,0,8,0,Spring,Economic Change,11.31,27,59,4
+2025-08-25,27,Electronics,3,Houston,20,184.51,87,0,6,0,Winter,None,58.16,49,41,7
+2025-08-26,90,Clothing,11,Los Angeles,22,199.49,94,1,6,1,Fall,Economic Change,62.5,21,85,9
+2025-08-27,90,Clothing,6,New York,22,299.91,61,0,5,0,Spring,None,297.54,39,30,12
+2025-08-28,7,Electronics,5,Phoenix,20,429.49,63,0,5,1,Spring,Economic Change,270.74,43,47,12
+2025-08-29,89,Groceries,19,Phoenix,22,285.43,26,0,9,1,Winter,Local Event,40.49,47,72,6
+2025-08-30,80,Toys,11,New York,25,392.38,42,0,1,0,Winter,None,297.54,47,52,7
+2025-08-31,42,Electronics,4,Chicago,17,306.69,88,0,7,1,Winter,Local Event,61.81,27,27,11
+2025-09-01,18,Groceries,8,Chicago,26,340.14,3,0,9,1,Winter,Festival,103.82,48,58,9
+2025-09-02,81,Electronics,4,Los Angeles,19,435.36,84,0,4,0,Winter,None,268.27,35,66,2
+2025-09-03,44,Clothing,2,Los Angeles,14,247.56,87,0,9,0,Fall,Economic Change,16.34,16,74,4
+2025-09-04,70,Groceries,6,Phoenix,20,363.89,75,0,1,1,Summer,Economic Change,103.06,32,42,12
+2025-09-05,20,Groceries,4,New York,25,425.28,4,0,6,0,Winter,Local Event,143.83,12,40,4
+2025-09-06,23,Electronics,15,New York,14,341.82,53,1,3,0,Spring,Economic Change,31.19,46,88,12
+2025-09-07,12,Toys,3,Houston,20,78.06,43,0,8,0,Summer,Local Event,208.33,28,52,9
+2025-09-08,12,Electronics,18,Chicago,16,268.68,70,0,1,1,Fall,Festival,39.19,38,84,8
+2025-09-09,34,Toys,15,Chicago,13,317.98,93,0,9,0,Winter,Economic Change,289.48,12,36,4
+2025-09-10,8,Groceries,11,Los Angeles,24,180.33,74,0,7,0,Winter,None,269.79,11,63,5
+2025-09-11,27,Toys,5,Los Angeles,19,323.64,88,0,7,0,Winter,Local Event,24.49,28,93,8
+2025-09-12,49,Clothing,5,Chicago,13,456.8,58,1,5,0,Fall,Festival,21.42,28,87,1
+2025-09-13,72,Toys,7,Houston,23,321.96,85,0,8,1,Fall,Festival,263.84,12,99,11
+2025-09-14,55,Toys,10,Los Angeles,18,58.52,73,0,4,0,Spring,Economic Change,35.34,30,96,5
+2025-09-15,97,Groceries,10,Los Angeles,24,282.55,38,0,6,1,Spring,Local Event,56.43,25,54,6
+2025-09-16,83,Toys,4,Houston,24,178.89,74,0,7,1,Fall,Festival,193.66,37,63,6
+2025-09-17,88,Groceries,8,Phoenix,22,291.62,73,0,1,0,Spring,None,70.77,33,76,11
+2025-09-18,22,Clothing,13,Chicago,14,377.26,37,0,4,0,Winter,Economic Change,108.31,19,44,1
+2025-09-19,3,Clothing,5,New York,18,104.29,75,1,8,0,Spring,Economic Change,224.78,30,84,3
+2025-09-20,9,Electronics,14,New York,25,65.54,19,0,6,1,Spring,Local Event,81.2,18,68,4
+2025-09-21,11,Electronics,13,New York,32,498.43,47,0,9,0,Spring,Festival,43.79,36,52,11
+2025-09-22,6,Electronics,1,New York,25,129.11,53,0,7,1,Summer,Local Event,242.6,14,28,13
+2025-09-23,39,Clothing,11,New York,28,440.22,60,0,9,0,Summer,None,20.23,45,35,1
+2025-09-24,39,Toys,15,Phoenix,26,172.24,46,0,2,0,Summer,Local Event,89.11,19,54,7
+2025-09-25,66,Groceries,1,Chicago,18,308.53,29,0,2,0,Fall,Economic Change,104.11,20,44,11
+2025-09-26,60,Clothing,1,Los Angeles,25,202.38,28,0,4,0,Summer,Festival,90.43,34,64,11
