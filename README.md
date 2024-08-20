@@ -17,10 +17,10 @@ This project is designed to help businesses effectively manage their stock inven
 
 # Who It's For:
 
-Retailers: Businesses that sell physical goods and need to keep track of large inventories across multiple stores and warehouses.
-E-commerce Companies: Online retailers that require efficient inventory management to ensure they can fulfill customer orders promptly.
-Supply Chain Managers: Professionals responsible for overseeing the movement of goods from suppliers to customers, who need accurate inventory data to optimize logistics.
-Manufacturers: Companies that produce goods and need to maintain raw material inventories as well as manage finished goods ready for distribution.
+- Retailers: Businesses that sell physical goods and need to keep track of large inventories across multiple stores and warehouses.
+- E-commerce Companies: Online retailers that require efficient inventory management to ensure they can fulfill customer orders promptly.
+- Supply Chain Managers: Professionals responsible for overseeing the movement of goods from suppliers to customers, who need accurate inventory data to optimize logistics.
+- Manufacturers: Companies that produce goods and need to maintain raw material inventories as well as manage finished goods ready for distribution.
 
 ## Tech Stack
 
