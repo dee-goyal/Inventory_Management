@@ -30,7 +30,7 @@ Server: Flask(python)
 
 Demo
 
-[Insert gif or link to demo
+[Demo of the Project
 ](https://www.youtube.com/watch?v=0jNWTrBEXhQ&t=28s)
 
 ## Installation
@@ -58,5 +58,6 @@ To deploy this project run
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@dee_goyal](https://github.com/dee-goyal)
+- [@Dikshaa110](https://github.com/dee-goyal)
 
