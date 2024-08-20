@@ -1,5 +1,5 @@
 
-# Stock Inventory Management System Using Machine Learning
+# Inventory Management System Using Machine Learning
 
 Project Overview:
 
