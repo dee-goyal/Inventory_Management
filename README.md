@@ -26,7 +26,7 @@ This project is designed to help businesses effectively manage their stock inven
 
 Client: HTML, CSS, Javascript (served by Flask)
 
-Server: Flask(python)
+Server: Flask, python modules
 
 Demo
 
